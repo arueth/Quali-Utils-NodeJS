@@ -1,0 +1,356 @@
+[
+    {
+        "category": "switch-000",
+        "segments": [
+            {
+                "start": "2017-05-12 17:00",
+                "task": "Reservation-5-1-2017 12-06 owned by: quali-user (f1f25d46-307f-4733-831a-1cd5023be91d)",
+                "end": "2017-05-13 00:00"
+            },
+            {
+                "start": "2017-05-10 17:00",
+                "task": "Reservation-5-1-2017 12-06 owned by: quali-user (734f6e66-46ba-45ac-b530-36522d5d9be9)",
+                "end": "2017-05-11 00:00"
+            },
+            {
+                "start": "2017-05-11 17:00",
+                "task": "Reservation-5-1-2017 12-06 owned by: quali-user (08f673cb-171d-4726-aa10-52a7a982f514)",
+                "end": "2017-05-12 00:00"
+            }
+        ]
+    },
+    {
+        "category": "switch-001",
+        "segments": [
+            {
+                "start": "2017-05-17 16:00",
+                "task": "CloudShell Sandbox Template500 owned by: ixia-user (3c128aaf-1965-4c49-bf42-a274c27e80cb)",
+                "end": "2017-05-18 04:00"
+            },
+            {
+                "start": "2017-05-16 16:00",
+                "task": "CloudShell Sandbox Template500 owned by: ixia-user (cd8640b9-8ee9-4cb9-9c06-474e0114f822)",
+                "end": "2017-05-17 04:00"
+            },
+            {
+                "start": "2017-05-12 16:00",
+                "task": "CloudShell Sandbox Template499 owned by: ixia-user (e834283b-b549-43c7-84ab-c4197aafcb6e)",
+                "end": "2017-05-13 04:10"
+            },
+            {
+                "start": "2017-05-15 16:00",
+                "task": "CloudShell Sandbox Template500 owned by: ixia-user (be36407d-0110-40fb-b0a6-29db8b726eb7)",
+                "end": "2017-05-16 04:10"
+            }
+        ]
+    },
+    {
+        "category": "mesh-000",
+        "segments": [
+            {
+                "start": "2017-05-12 19:14",
+                "task": "My Mesh owned by: linux-user (39c76583-da64-499f-ae8d-eff51ca6b2df)",
+                "end": "2017-05-13 19:13"
+            },
+            {
+                "start": "2017-05-10 19:14",
+                "task": "My Mesh owned by: linux-user (61d5ea19-942e-4178-9b51-d2e4fc3ad6b2)",
+                "end": "2017-05-11 19:13"
+            },
+            {
+                "start": "2017-05-11 19:14",
+                "task": "My Mesh owned by: linux-user (9ca41d68-2f03-4a8b-9daf-3851de76112b)",
+                "end": "2017-05-12 19:13"
+            },
+            {
+                "start": "2017-05-14 19:14",
+                "task": "My Mesh owned by: linux-user (f5874b3d-4e7b-4aea-b934-68f5f1a3ba56)",
+                "end": "2017-05-15 19:13"
+            },
+            {
+                "start": "2017-05-15 19:14",
+                "task": "My Mesh owned by: linux-user (e20889d2-4891-4d41-8244-54e1df4324e9)",
+                "end": "2017-05-16 19:13"
+            },
+            {
+                "start": "2017-05-16 19:14",
+                "task": "My Mesh owned by: linux-user (75b884db-5079-4a85-a73d-395fcacdb3a0)",
+                "end": "2017-05-17 19:13"
+            },
+            {
+                "start": "2017-05-13 19:14",
+                "task": "My Mesh owned by: linux-user (51f4c02d-ee57-460a-952d-d2159b8419d7)",
+                "end": "2017-05-14 19:13"
+            }
+        ]
+    },
+    {
+        "category": "mesh-001",
+        "segments": [
+            {
+                "start": "2017-05-12 15:00",
+                "task": "My Testbed owned by: windows-user (be67033d-9b4c-4c11-b558-91d567de5801)",
+                "end": "2017-05-13 01:00"
+            },
+            {
+                "start": "2017-05-13 15:00",
+                "task": "My Testbed owned by: windows-user (cd867891-da01-4894-bfbd-8062345b62db)",
+                "end": "2017-05-14 01:00"
+            },
+            {
+                "start": "2017-05-11 15:00",
+                "task": "My Testbed owned by: windows-user (e08e4484-586e-4181-bbce-bf6e00effdbd)",
+                "end": "2017-05-12 01:00"
+            },
+            {
+                "start": "2017-05-16 15:00",
+                "task": "My Testbed owned by: windows-user (3c3df8c7-4b68-4e8d-8564-f27fee8e11c0)",
+                "end": "2017-05-17 01:00"
+            },
+            {
+                "start": "2017-05-10 15:00",
+                "task": "My Testbed owned by: windows-user (abc3442f-c72a-40d7-9365-67c4ba6670a0)",
+                "end": "2017-05-11 01:00"
+            },
+            {
+                "start": "2017-05-17 15:00",
+                "task": "My Testbed owned by: windows-user (009295a2-73d3-4e44-a311-39f594b8945c)",
+                "end": "2017-05-18 01:00"
+            },
+            {
+                "start": "2017-05-14 15:00",
+                "task": "My Testbed owned by: windows-user (66ecc228-1dc7-4b6c-a67c-e3ded5f36c39)",
+                "end": "2017-05-15 01:00"
+            },
+            {
+                "start": "2017-05-15 15:00",
+                "task": "My Testbed owned by: windows-user (f68ecea7-6584-4d81-8ef5-381ae0d3305f)",
+                "end": "2017-05-16 01:00"
+            }
+        ]
+    },
+    {
+        "category": "router-000",
+        "segments": [
+            {
+                "start": "2017-05-12 15:00",
+                "task": "My Testbed owned by: windows-user (be67033d-9b4c-4c11-b558-91d567de5801)",
+                "end": "2017-05-13 01:00"
+            },
+            {
+                "start": "2017-05-11 15:00",
+                "task": "My Testbed owned by: windows-user (e08e4484-586e-4181-bbce-bf6e00effdbd)",
+                "end": "2017-05-12 01:00"
+            },
+            {
+                "start": "2017-05-16 15:00",
+                "task": "My Testbed owned by: windows-user (3c3df8c7-4b68-4e8d-8564-f27fee8e11c0)",
+                "end": "2017-05-17 01:00"
+            },
+            {
+                "start": "2017-05-13 15:00",
+                "task": "My Testbed owned by: windows-user (cd867891-da01-4894-bfbd-8062345b62db)",
+                "end": "2017-05-14 01:00"
+            },
+            {
+                "start": "2017-05-17 15:00",
+                "task": "My Testbed owned by: windows-user (009295a2-73d3-4e44-a311-39f594b8945c)",
+                "end": "2017-05-18 01:00"
+            },
+            {
+                "start": "2017-05-10 15:00",
+                "task": "My Testbed owned by: windows-user (abc3442f-c72a-40d7-9365-67c4ba6670a0)",
+                "end": "2017-05-11 01:00"
+            },
+            {
+                "start": "2017-05-14 15:00",
+                "task": "My Testbed owned by: windows-user (66ecc228-1dc7-4b6c-a67c-e3ded5f36c39)",
+                "end": "2017-05-15 01:00"
+            },
+            {
+                "start": "2017-05-15 15:00",
+                "task": "My Testbed owned by: windows-user (f68ecea7-6584-4d81-8ef5-381ae0d3305f)",
+                "end": "2017-05-16 01:00"
+            }
+        ]
+    },
+    {
+        "category": "router-001",
+        "segments": []
+    },
+	{
+        "category": "server-000",
+        "segments": [
+            {
+                "start": "2017-05-12 17:00",
+                "task": "Reservation-5-1-2017 12-06 owned by: quali-user (f1f25d46-307f-4733-831a-1cd5023be91d)",
+                "end": "2017-05-13 00:00"
+            },
+            {
+                "start": "2017-05-10 17:00",
+                "task": "Reservation-5-1-2017 12-06 owned by: quali-user (734f6e66-46ba-45ac-b530-36522d5d9be9)",
+                "end": "2017-05-11 00:00"
+            },
+            {
+                "start": "2017-05-11 17:00",
+                "task": "Reservation-5-1-2017 12-06 owned by: quali-user (08f673cb-171d-4726-aa10-52a7a982f514)",
+                "end": "2017-05-12 00:00"
+            }
+        ]
+    },
+    {
+        "category": "server-001",
+        "segments": [
+            {
+                "start": "2017-05-17 16:00",
+                "task": "CloudShell Sandbox Template500 owned by: ixia-user (3c128aaf-1965-4c49-bf42-a274c27e80cb)",
+                "end": "2017-05-18 04:00"
+            },
+            {
+                "start": "2017-05-16 16:00",
+                "task": "CloudShell Sandbox Template500 owned by: ixia-user (cd8640b9-8ee9-4cb9-9c06-474e0114f822)",
+                "end": "2017-05-17 04:00"
+            },
+            {
+                "start": "2017-05-12 16:00",
+                "task": "CloudShell Sandbox Template499 owned by: ixia-user (e834283b-b549-43c7-84ab-c4197aafcb6e)",
+                "end": "2017-05-13 04:10"
+            },
+            {
+                "start": "2017-05-15 16:00",
+                "task": "CloudShell Sandbox Template500 owned by: ixia-user (be36407d-0110-40fb-b0a6-29db8b726eb7)",
+                "end": "2017-05-16 04:10"
+            }
+        ]
+    },
+    {
+        "category": "server-002",
+        "segments": [
+            {
+                "start": "2017-05-12 19:14",
+                "task": "My Server owned by: linux-user (39c76583-da64-499f-ae8d-eff51ca6b2df)",
+                "end": "2017-05-13 19:13"
+            },
+            {
+                "start": "2017-05-10 19:14",
+                "task": "My Server owned by: linux-user (61d5ea19-942e-4178-9b51-d2e4fc3ad6b2)",
+                "end": "2017-05-11 19:13"
+            },
+            {
+                "start": "2017-05-11 19:14",
+                "task": "My Server owned by: linux-user (9ca41d68-2f03-4a8b-9daf-3851de76112b)",
+                "end": "2017-05-12 19:13"
+            },
+            {
+                "start": "2017-05-14 19:14",
+                "task": "My Server owned by: linux-user (f5874b3d-4e7b-4aea-b934-68f5f1a3ba56)",
+                "end": "2017-05-15 19:13"
+            },
+            {
+                "start": "2017-05-15 19:14",
+                "task": "My Server owned by: linux-user (e20889d2-4891-4d41-8244-54e1df4324e9)",
+                "end": "2017-05-16 19:13"
+            },
+            {
+                "start": "2017-05-16 19:14",
+                "task": "My Server owned by: linux-user (75b884db-5079-4a85-a73d-395fcacdb3a0)",
+                "end": "2017-05-17 19:13"
+            },
+            {
+                "start": "2017-05-13 19:14",
+                "task": "My Server owned by: linux-user (51f4c02d-ee57-460a-952d-d2159b8419d7)",
+                "end": "2017-05-14 19:13"
+            }
+        ]
+    },
+    {
+        "category": "ixia-000",
+        "segments": [
+            {
+                "start": "2017-05-12 15:00",
+                "task": "My Testbed owned by: windows-user (be67033d-9b4c-4c11-b558-91d567de5801)",
+                "end": "2017-05-13 01:00"
+            },
+            {
+                "start": "2017-05-13 15:00",
+                "task": "My Testbed owned by: windows-user (cd867891-da01-4894-bfbd-8062345b62db)",
+                "end": "2017-05-14 01:00"
+            },
+            {
+                "start": "2017-05-11 15:00",
+                "task": "My Testbed owned by: windows-user (e08e4484-586e-4181-bbce-bf6e00effdbd)",
+                "end": "2017-05-12 01:00"
+            },
+            {
+                "start": "2017-05-16 15:00",
+                "task": "My Testbed owned by: windows-user (3c3df8c7-4b68-4e8d-8564-f27fee8e11c0)",
+                "end": "2017-05-17 01:00"
+            },
+            {
+                "start": "2017-05-10 15:00",
+                "task": "My Testbed owned by: windows-user (abc3442f-c72a-40d7-9365-67c4ba6670a0)",
+                "end": "2017-05-11 01:00"
+            },
+            {
+                "start": "2017-05-17 15:00",
+                "task": "My Testbed owned by: windows-user (009295a2-73d3-4e44-a311-39f594b8945c)",
+                "end": "2017-05-18 01:00"
+            },
+            {
+                "start": "2017-05-14 15:00",
+                "task": "My Testbed owned by: windows-user (66ecc228-1dc7-4b6c-a67c-e3ded5f36c39)",
+                "end": "2017-05-15 01:00"
+            },
+            {
+                "start": "2017-05-15 15:00",
+                "task": "My Testbed owned by: windows-user (f68ecea7-6584-4d81-8ef5-381ae0d3305f)",
+                "end": "2017-05-16 01:00"
+            }
+        ]
+    },
+    {
+        "category": "ixia-001",
+        "segments": [
+            {
+                "start": "2017-05-12 15:00",
+                "task": "My Testbed owned by: windows-user (be67033d-9b4c-4c11-b558-91d567de5801)",
+                "end": "2017-05-13 01:00"
+            },
+            {
+                "start": "2017-05-11 15:00",
+                "task": "My Testbed owned by: windows-user (e08e4484-586e-4181-bbce-bf6e00effdbd)",
+                "end": "2017-05-12 01:00"
+            },
+            {
+                "start": "2017-05-16 15:00",
+                "task": "My Testbed owned by: windows-user (3c3df8c7-4b68-4e8d-8564-f27fee8e11c0)",
+                "end": "2017-05-17 01:00"
+            },
+            {
+                "start": "2017-05-13 15:00",
+                "task": "My Testbed owned by: windows-user (cd867891-da01-4894-bfbd-8062345b62db)",
+                "end": "2017-05-14 01:00"
+            },
+            {
+                "start": "2017-05-17 15:00",
+                "task": "My Testbed owned by: windows-user (009295a2-73d3-4e44-a311-39f594b8945c)",
+                "end": "2017-05-18 01:00"
+            },
+            {
+                "start": "2017-05-10 15:00",
+                "task": "My Testbed owned by: windows-user (abc3442f-c72a-40d7-9365-67c4ba6670a0)",
+                "end": "2017-05-11 01:00"
+            },
+            {
+                "start": "2017-05-14 15:00",
+                "task": "My Testbed owned by: windows-user (66ecc228-1dc7-4b6c-a67c-e3ded5f36c39)",
+                "end": "2017-05-15 01:00"
+            },
+            {
+                "start": "2017-05-15 15:00",
+                "task": "My Testbed owned by: windows-user (f68ecea7-6584-4d81-8ef5-381ae0d3305f)",
+                "end": "2017-05-16 01:00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "quali-utils",
+  "version": "0.9.0",
+  "description": "Quali Utilities Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "amcharts3": "github:amcharts/amcharts3",
+    "bootstrap": "^3.3.7",
+    "console-stamp": "^0.2.5",
+    "express": "^4.15.3"
+  }
+}
