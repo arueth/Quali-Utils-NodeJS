@@ -72,7 +72,7 @@
         key = encodeURI(key);
         value = encodeURI(value);
 
-        var kvp = null
+        var kvp = null;
 
         queryParamString = document.location.search.substr(1);
 
@@ -154,7 +154,7 @@
             }
         }
         else {
-            var resourceSearch = filterResource;
+            resourceSearch = filterResource;
         }
 
         resourceSearch = resourceSearch.toLowerCase().replace(/\s/g, '').split(',');
@@ -201,7 +201,7 @@
             "lineAlpha": 1,
             "lineColor": "#000",
             "fillAlphas": 0.85,
-            "balloonText": "<b>[[task]]</b><br/>[[start]] - [[end]]"
+            "balloonText": "<b>[[name]] ([[id]])</b><br/>owner: [[owner]]<br/>[[start]] - [[end]]"
         },
         "rotate": true,
         "categoryField": "category",
@@ -213,7 +213,7 @@
         "valueScrollbar": {
             "autoGridCount": true,
             "backgroundColor": "#EFEFEF",
-		    "selectedBackgroundColor": "#000000",
+            "selectedBackgroundColor": "#000000"
         },
         "chartCursor": {
             "cursorColor": "#55bb76",
@@ -250,8 +250,6 @@
             elements[i].setAttribute("stroke-width", strokeWidth);
         }
     }
-
-
 </script>
 </body>
 </html>
