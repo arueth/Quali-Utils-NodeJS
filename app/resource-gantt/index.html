@@ -192,9 +192,9 @@
         "marginRight": 70,
         "period": "hh",
         "dataDateFormat": "YYYY-MM-DD JJ:NN",
-        "balloonDateFormat": "YYYY-MM-DD JJ",
         "columnWidth": 0.5,
         "valueAxis": {
+            "minimumDate": Date.now(),
             "type": "date"
         },
         "graph": {
@@ -206,20 +206,21 @@
         "rotate": true,
         "categoryField": "category",
         "segmentsField": "segments",
-        "colorField": "color",
         "startDateField": "start",
         "endDateField": "end",
         "dataProvider": getFilteredData(),
         "valueScrollbar": {
             "autoGridCount": true,
             "backgroundColor": "#EFEFEF",
+            "hideResizeGrips": true,
             "selectedBackgroundColor": "#000000"
+
         },
         "chartCursor": {
             "cursorColor": "#55bb76",
             "valueBalloonsEnabled": false,
             "cursorAlpha": 0,
-            "valueLineAlpha": 0.5,
+            "valueLineAlpha": 1,
             "valueLineBalloonEnabled": true,
             "valueLineEnabled": true,
             "zoomable": false,
@@ -234,7 +235,7 @@
         "listeners": [{
             "event": "rollOverGraphItem",
             "method": function (event) {
-                changeStroke(event, 5);
+                changeStroke(event, 3);
             }
         }, {
             "event": "rollOutGraphItem",
