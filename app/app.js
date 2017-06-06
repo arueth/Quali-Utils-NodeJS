@@ -5,7 +5,9 @@ const PORT = 80;
 
 var path = __dirname + '/';
 
+var compression         = require('compression');
 var express = require("express");
+
 var app = express();
 var router = express.Router();
 
@@ -27,6 +29,8 @@ router.get("/data/resource-gantt-reservations.json", function (req, res) {
     res.sendFile(path + "data/resource-gantt-reservations.json");
 });
 
+app.use(compression());
+
 app.use(express.static('assets'));
 
 app.use("/", router);
@@ -38,3 +42,4 @@ app.use("*", function (req, res) {
 app.listen(PORT, function () {
     console.log('Server is listening on port ' + PORT)
 });
+

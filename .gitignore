@@ -1,1 +1,5 @@
 .idea
+
+app/assets/amcharts/
+app/assets/bootstrap/
+app/node_modules/

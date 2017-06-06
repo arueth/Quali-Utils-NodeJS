@@ -9,6 +9,7 @@
   "dependencies": {
     "amcharts3": "github:amcharts/amcharts3",
     "bootstrap": "^3.3.7",
+    "compression": "^1.6.2",
     "console-stamp": "^0.2.5",
     "express": "^4.15.3"
   }
