@@ -1,45 +1,39 @@
 'use strict';
-require('console-stamp')(console, 'yyyy-mm-dd HH:MM:ss Z');
+const compression = require('compression');
+const express = require("express");
+const morgan = require('morgan');
 
-const PORT = 80;
+const app = express();
+const router = express.Router();
 
-var path = __dirname + '/';
+const logger = morgan('[:date[iso]] :remote-addr(:remote-user) ":method :url HTTP/:http-version" :status :res[content-length] ":referrer" ":user-agent"');
 
-var compression         = require('compression');
-var express = require("express");
+const base = __dirname + '/';
+const port = process.env.NODEJS_PORT || 80;
 
-var app = express();
-var router = express.Router();
-
-router.use(function (req, res, next) {
-    console.log('%s %s', req.method, req.originalUrl);
-    next();
-});
+app.use(compression());
+app.use(express.static('assets'));
+app.use(logger);
 
 router.get("/", function (req, res) {
-    console.log('REDIRECT %s %s => /resource-gantt/index.html', req.method, req.originalUrl);
     res.redirect('/resource-gantt/index.html');
 });
 
 router.get("/resource-gantt/index.html", function (req, res) {
-    res.sendFile(path + "resource-gantt/index.html");
+    res.sendFile(base + "resource-gantt/index.html");
 });
 
 router.get("/data/resource-gantt-reservations.json", function (req, res) {
-    res.sendFile(path + "data/resource-gantt-reservations.json");
+    res.sendFile(base + "data/resource-gantt-reservations.json");
 });
-
-app.use(compression());
-
-app.use(express.static('assets'));
 
 app.use("/", router);
 
 app.use("*", function (req, res) {
-    res.status(404).sendFile(path + "assets/static/html/404.html");
+    res.status(404).sendFile(base + "assets/static/html/404.html");
 });
 
-app.listen(PORT, function () {
-    console.log('Server is listening on port ' + PORT)
+app.listen(port, function () {
+    console.log('Server is listening on port ' + port)
 });
 
