@@ -6,10 +6,10 @@
             height: 95%;
         }
     </style>
-    <link rel="stylesheet" href="/amcharts/plugins/export/export.css" type="text/css" media="all"/>
-    <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" type="text/css" media="all"/>
-    <link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.min.css" type="text/css" media="all"/>
-    <link rel="stylesheet" href="/static/css/style.css" type="text/css" media="all"/>
+    <link rel="stylesheet" href="/static/amcharts/plugins/export/export.css" type="text/css" media="all"/>
+    <link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css" type="text/css" media="all"/>
+    <link rel="stylesheet" href="/static/bootstrap/css/bootstrap-theme.min.css" type="text/css" media="all"/>
+    <link rel="stylesheet" href="/assets/css/style.css" type="text/css" media="all"/>
 </head>
 
 <body>
@@ -48,11 +48,11 @@
         </div>
     </div>
 </div>
-<script src="/amcharts/amcharts.js"></script>
-<script src="/amcharts/serial.js"></script>
-<script src="/amcharts/gantt.js"></script>
-<script src="/amcharts/plugins/export/export.min.js"></script>
-<script src="/amcharts/themes/light.js"></script>
+<script src="/static/amcharts/amcharts.js"></script>
+<script src="/static/amcharts/serial.js"></script>
+<script src="/static/amcharts/gantt.js"></script>
+<script src="/static/amcharts/plugins/export/export.min.js"></script>
+<script src="/static/amcharts/themes/light.js"></script>
 <script>
     function getQueryParams(qs) {
         qs = qs.split('+').join(' ');
@@ -229,7 +229,7 @@
         "export": {
             "enabled": true,
             "libs": {
-                "path": "/amcharts/plugins/export/libs/"
+                "path": "/static/amcharts/plugins/export/libs/"
             }
         },
         "listeners": [{

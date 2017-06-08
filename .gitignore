@@ -1,5 +1,4 @@
 .idea
 
-app/assets/amcharts/
-app/assets/bootstrap/
+app/www/public/static
 app/node_modules/

@@ -3,12 +3,14 @@ version: '3.1'
 services:
   nodejs:
     build: .
+    environment:
+      - NODEJS_PORT=80
     networks:
       - frontend
     ports:
       - '80:80'
     volumes:
-      - data:/usr/src/app/data
+      - data:/usr/src/app/www/data
 
 networks:
   frontend:

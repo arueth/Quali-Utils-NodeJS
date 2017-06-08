@@ -1,39 +1,47 @@
 'use strict';
 const compression = require('compression');
 const express = require("express");
+const favicon = require('serve-favicon');
 const morgan = require('morgan');
+const path = require('path');
 
-const app = express();
-const router = express.Router();
+const logger = morgan(
+    '[:date[iso]] ' +
+    ':remote-addr(:remote-user) ' +
+    '":method :url HTTP/:http-version" :status :res[content-length] :response-time ms ":referrer" ":user-agent"');
 
-const logger = morgan('[:date[iso]] :remote-addr(:remote-user) ":method :url HTTP/:http-version" :status :res[content-length] ":referrer" ":user-agent"');
+var app = express();
 
-const base = __dirname + '/';
-const port = process.env.NODEJS_PORT || 80;
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'pug');
 
 app.use(compression());
-app.use(express.static('assets'));
+app.use(express.static(path.join(__dirname, 'www', 'public')));
+app.use(favicon(path.join(__dirname, 'www', 'public', 'favicon.ico')));
 app.use(logger);
 
-router.get("/", function (req, res) {
-    res.redirect('/resource-gantt/index.html');
+var index = require('./routes/index');
+var data = require('./routes/data');
+var resourceGantt = require('./routes/resource-gantt');
+
+app.use("/", index);
+app.use("/data", data);
+app.use("/resource-gantt", resourceGantt);
+
+app.use(function (req, res, next) {
+    var err = new Error('Not Found');
+    err.status = 404;
+    
+    next(err);
 });
 
-router.get("/resource-gantt/index.html", function (req, res) {
-    res.sendFile(base + "resource-gantt/index.html");
+app.use(function (err, req, res, next) {
+    err.status = err.status || 500;
+    res.locals.message = err.message;
+    res.locals.error = req.app.get('env') === 'development' ? err : {};
+
+    res.status(err.status);
+    res.render('error');
 });
 
-router.get("/data/resource-gantt-reservations.json", function (req, res) {
-    res.sendFile(base + "data/resource-gantt-reservations.json");
-});
-
-app.use("/", router);
-
-app.use("*", function (req, res) {
-    res.status(404).sendFile(base + "assets/static/html/404.html");
-});
-
-app.listen(port, function () {
-    console.log('Server is listening on port ' + port)
-});
-
+module.exports = app;

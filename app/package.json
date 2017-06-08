@@ -4,6 +4,7 @@
   "description": "Quali Utilities NodeJS application",
   "main": "app.js",
   "scripts": {
+    "start": "NODE_PATH=`pwd` node ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aaron Rueth <arueth@gmail.com>",
@@ -13,7 +14,9 @@
     "bootstrap": "^3.3.7",
     "compression": "^1.6.2",
     "express": "^4.15.3",
-    "morgan": "^1.8.2"
+    "morgan": "^1.8.2",
+    "pug": "^2.0.0-rc.2",
+    "serve-favicon": "^2.4.3"
   },
   "devDependencies": {}
 }
