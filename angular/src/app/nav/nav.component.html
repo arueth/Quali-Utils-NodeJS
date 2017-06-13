@@ -1,0 +1,21 @@
+<div class="nav navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button class="navbar-toggle collapsed" (click)="isCollapsed = !isCollapsed" [attr.aria-expanded]="!isCollapsed" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" routerLink="/" routerLinkActive="active">Quali Utils</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse" [ngbCollapse]="isCollapsed">
+      <ul class="nav navbar-nav">
+        <li>
+          <a routerLink="resource-reservation-gantt" routerLinkActive="active">Resource Reservations</a>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right"></ul>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,6 @@
+angular/dist
+angular/node_modules
+
+app/node_modules
+app/www/dist
+app/www/public/static

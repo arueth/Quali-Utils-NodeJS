@@ -20,20 +20,11 @@ app.use(express.static(path.join(__dirname, 'www', 'public')));
 app.use(favicon(path.join(__dirname, 'www', 'public', 'favicon.ico')));
 app.use(logger);
 
-var index = require('./routes/index');
 var data = require('./routes/data');
-var resourceGantt = require('./routes/resource-gantt');
-
-app.use("/", index);
 app.use("/data", data);
-app.use("/resource-gantt", resourceGantt);
 
-app.use(function (req, res, next) {
-    var err = new Error('Not Found');
-    err.status = 404;
-    
-    next(err);
-});
+var angular = require('./routes/angular');
+app.use(angular);
 
 app.use(function (err, req, res, next) {
     err.status = err.status || 500;

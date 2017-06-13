@@ -1,4 +1,5 @@
 .idea
 
+app/www/dist
 app/www/public/static
 app/node_modules/

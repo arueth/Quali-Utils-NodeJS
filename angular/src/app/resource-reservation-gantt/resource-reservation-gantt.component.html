@@ -1,0 +1,15 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-12">
+      <div id="filter">
+        <label> Search:
+          <input type="text" [(ngModel)]="resourceFilter" (ngModelChange)="refreshData()"/>
+        </label>
+      </div>
+      <div id="chart-container">
+        <div id="gantt" [style.height.px]="chartHeight"></div>
+        <div id="loader"></div>
+      </div>
+    </div>
+  </div>
+</div>
