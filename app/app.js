@@ -12,9 +12,6 @@ const logger = morgan(
 
 var app = express();
 
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'pug');
-
 app.use(compression());
 app.use(express.static(path.join(__dirname, 'www', 'public')));
 app.use(favicon(path.join(__dirname, 'www', 'public', 'favicon.ico')));
@@ -32,7 +29,7 @@ app.use(function (err, req, res, next) {
     res.locals.error = req.app.get('env') === 'development' ? err : {};
 
     res.status(err.status);
-    res.render('error');
+    res.send(res);
 });
 
 module.exports = app;
