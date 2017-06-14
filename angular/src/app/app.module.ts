@@ -10,6 +10,7 @@ import {Routes} from '@angular/router';
 import {AppComponent} from './app.component';
 import {FooterComponent} from "./footer/footer.component";
 import {IndexComponent} from "./index/index.component";
+import {MomentModule} from "angular2-moment";
 import {NavComponent} from "./nav/nav.component";
 import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
 import {ResourceReservationGanttComponent} from './resource-reservation-gantt/resource-reservation-gantt.component';
@@ -35,6 +36,7 @@ const appRoutes: Routes = [
     BrowserModule,
     FormsModule,
     HttpModule,
+    MomentModule,
     NgbModule.forRoot(),
     RouterModule.forRoot(appRoutes)
   ],

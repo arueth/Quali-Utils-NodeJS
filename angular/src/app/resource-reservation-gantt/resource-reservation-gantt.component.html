@@ -21,8 +21,13 @@
             <input type="text" [(ngModel)]="resourceFilter" (ngModelChange)="refreshData()"/>
           </label>
         </div>
-        <div class="pull-right">
-          <small>Source last updated: {{ chartDataLastUpdated | date:'yyyy-MM-dd HH:mm:ss Z'}}</small>
+        <div class="pull-right text-right">
+          <small>
+            Source last updated: {{ chartDataLastUpdated | amDateFormat: 'YYYY-MM-DD HH:mm:ss'}}
+            ({{ chartDataLastUpdated | amTimeAgo }})
+            <br/>
+            All times have offset {{ chartDataLastUpdated | amDateFormat: 'Z'}}
+          </small>
         </div>
         <div class="clearfix"></div>
       </div>

@@ -6,6 +6,8 @@ import {Observable} from 'rxjs/Observable';
 import 'rxjs/add/operator/catch';
 import 'rxjs/add/operator/map';
 
+declare var moment: any;
+
 @Component({
   selector: 'app-resource-reservation-gantt',
   templateUrl: './resource-reservation-gantt.component.html',
@@ -34,7 +36,7 @@ export class ResourceReservationGanttComponent {
       "dataDateFormat": "YYYY-MM-DD JJ:NN",
       "columnWidth": 0.5,
       "valueAxis": {
-        "minimumDate": Date.now(),
+        "minimumDate": moment(),
         "type": "date"
       },
       "graph": {
@@ -92,6 +94,14 @@ export class ResourceReservationGanttComponent {
       .subscribe(
         (response) => {
           this.dataSource = response.data;
+
+          this.dataSource.forEach(function (resource) {
+            resource.segments.forEach(function (segment) {
+              segment.end = moment(segment.end).format('YYYY-MM-DD HH:mm');
+              segment.start = moment(segment.start).format('YYYY-MM-DD HH:mm');
+            });
+          });
+
           this.chartDataLastUpdated = response.lastModified;
           this.updateChartData(response.data);
 
@@ -102,7 +112,7 @@ export class ResourceReservationGanttComponent {
 
   private processResponse(res: Response) {
     let json = res.json() || {};
-    let lastModified = Date.parse(res.headers.get('last-modified'));
+    let lastModified = moment(res.headers.get('last-modified'));
 
     return {
       data: json,
@@ -141,8 +151,6 @@ export class ResourceReservationGanttComponent {
   refreshData() {
     if (this.dataSource) {
       let data = this.getFilteredData();
-
-      console.log("data: " + JSON.stringify(data));
 
       this.updateChartData(data);
     }
