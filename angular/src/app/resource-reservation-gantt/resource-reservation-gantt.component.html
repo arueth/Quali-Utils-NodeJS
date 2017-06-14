@@ -2,13 +2,19 @@
   <div class="row">
     <div class="col-xs-12">
       <div id="filter">
-        <label> Search:
-          <input type="text" [(ngModel)]="resourceFilter" (ngModelChange)="refreshData()"/>
-        </label>
+        <div class="pull-left">
+          <label> Search:
+            <input type="text" [(ngModel)]="resourceFilter" (ngModelChange)="refreshData()"/>
+          </label>
+        </div>
+        <div class="pull-right">
+          <small>Source last updated: {{ chartDataLastUpdated | date:'yyyy-MM-dd HH:mm:ss Z'}}</small>
+        </div>
+        <div class="clearfix"></div>
       </div>
       <div id="chart-container">
         <div id="gantt" [style.height.px]="chartHeight"></div>
-        <div id="loader"></div>
+        <div *ngIf="!dataLoaded" id="loader"></div>
       </div>
     </div>
   </div>

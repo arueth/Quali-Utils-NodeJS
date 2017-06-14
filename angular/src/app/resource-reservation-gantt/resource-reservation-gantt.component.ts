@@ -12,7 +12,9 @@ import 'rxjs/add/operator/map';
   styleUrls: ['./resource-reservation-gantt.component.css']
 })
 export class ResourceReservationGanttComponent {
+  private dataLoaded = false;
   private chart: any;
+  private chartDataLastUpdated: any;
   private chartHeight: number;
   private chartHeightMax = 1000;
   private dataSource: any;
@@ -85,23 +87,27 @@ export class ResourceReservationGanttComponent {
 
   getData() {
     this.http.get("/data/resource-gantt-reservations.json")
-      .map(this.extractData)
+      .map(this.processResponse)
       .catch(this.handleError)
       .subscribe(
-        (data) => {
-          this.dataSource = data;
-          this.updateChartData(data);
+        (response) => {
+          this.dataSource = response.data;
+          this.chartDataLastUpdated = response.lastModified;
+          this.updateChartData(response.data);
 
-          let loader = document.getElementById("loader");
-          loader.parentElement.removeChild(loader);
+          this.dataLoaded = true;
         }
       );
   }
 
-  private extractData(res: Response) {
-    let json = res.json();
+  private processResponse(res: Response) {
+    let json = res.json() || {};
+    let lastModified = Date.parse(res.headers.get('last-modified'));
 
-    return json || {};
+    return {
+      data: json,
+      lastModified: lastModified
+    }
   }
 
   private handleError(error: Response | any) {
