@@ -11,12 +11,14 @@ import {AppComponent} from './app.component';
 import {FooterComponent} from "./footer/footer.component";
 import {IndexComponent} from "./index/index.component";
 import {NavComponent} from "./nav/nav.component";
+import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
 import {ResourceReservationGanttComponent} from './resource-reservation-gantt/resource-reservation-gantt.component';
 
 
 const appRoutes: Routes = [
   {path: '', component: IndexComponent},
-  {path: 'resource-reservation-gantt', component: ResourceReservationGanttComponent}
+  {path: 'resource-reservation-gantt', component: ResourceReservationGanttComponent},
+  {path: '**', component: PageNotFoundComponent}
 ];
 
 @NgModule({
@@ -25,6 +27,7 @@ const appRoutes: Routes = [
     FooterComponent,
     IndexComponent,
     NavComponent,
+    PageNotFoundComponent,
     ResourceReservationGanttComponent
   ],
   imports: [
