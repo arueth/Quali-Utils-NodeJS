@@ -18,8 +18,7 @@ COPY app/package.json ./
 RUN npm install \
 && mkdir -p /usr/src/app/www/public/static \
 && mv /usr/src/app/node_modules/amcharts3/amcharts /usr/src/app/www/public/static/amcharts \
-&& mv /usr/src/app/node_modules/bootstrap/dist /usr/src/app/www/public/static/bootstrap \
-&& rm -r /usr/src/app/node_modules/amcharts3 /usr/src/app/node_modules/bootstrap
+&& rm -r /usr/src/app/node_modules/amcharts3
 
 COPY app/ ./
 
