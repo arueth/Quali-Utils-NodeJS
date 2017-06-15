@@ -394,5 +394,3965 @@
         "name": "Static Testbed"
       }
     ]
+  },
+  {
+    "category": "Device000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device001",
+    "segments": []
+  },
+  {
+    "category": "Device002",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device004",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 00:00Z",
+        "end": "2017-07-12 04:00Z",
+        "id": "9c97f4e5-98e7-450d-812d-f4cc07aa8ca7",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-11 00:00Z",
+        "end": "2017-07-11 04:00Z",
+        "id": "d1969173-5e01-4605-ae17-53f7446a5947",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 00:00Z",
+        "end": "2017-07-10 04:00Z",
+        "id": "ab6a5d47-deca-4d3a-9211-de5f0acc3e6c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-09 00:00Z",
+        "end": "2017-07-09 04:00Z",
+        "id": "5b285618-b0a7-4a0f-9721-aaf13c66eaac",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-08 00:00Z",
+        "end": "2017-07-08 04:00Z",
+        "id": "471a4680-3f2c-40a9-8b77-6d73b498c78c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 00:00Z",
+        "end": "2017-07-07 04:00Z",
+        "id": "009a2fa4-86b4-4dd8-8abb-7513f87a49fe",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-06 00:00Z",
+        "end": "2017-07-06 04:00Z",
+        "id": "a14abaea-ac44-4b18-963a-4f66717e0b86",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 00:00Z",
+        "end": "2017-07-05 04:00Z",
+        "id": "19c40ba9-0a00-4465-8f71-2cf6c3f53483",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-04 00:00Z",
+        "end": "2017-07-04 04:00Z",
+        "id": "2e8e911b-d7c6-452a-af97-c1867958dd44",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 00:00Z",
+        "end": "2017-07-03 04:00Z",
+        "id": "ed2f3dad-ed89-4ce0-8f49-7007285120e4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-02 00:00Z",
+        "end": "2017-07-02 04:00Z",
+        "id": "999eaa0d-4a96-4c11-92d6-1e20047e5f1d",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-01 00:00Z",
+        "end": "2017-07-01 04:00Z",
+        "id": "f050c14b-6c07-44ee-877e-229867bf78d9",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 00:00Z",
+        "end": "2017-06-30 04:00Z",
+        "id": "1b1c2daa-ca1d-4323-bda9-4414192498e5",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-29 00:00Z",
+        "end": "2017-06-29 04:00Z",
+        "id": "fc0399b0-c10b-459e-b062-e3484154c5bc",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 00:00Z",
+        "end": "2017-06-28 04:00Z",
+        "id": "d365d302-ee1a-4e72-8d2a-ee5eefb47c41",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-27 00:00Z",
+        "end": "2017-06-27 04:00Z",
+        "id": "de050ff9-988f-43cd-8cfa-f7dd826f62d6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 00:00Z",
+        "end": "2017-06-26 04:00Z",
+        "id": "9c4c3b1f-c54e-4e7f-8f72-283047d9e982",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-25 00:00Z",
+        "end": "2017-06-25 04:00Z",
+        "id": "5e97ab50-4631-4ca9-be65-feb207a36910",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-24 00:00Z",
+        "end": "2017-06-24 04:00Z",
+        "id": "a6bb2baf-5bb4-472d-adb5-4185b2fcaa81",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 00:00Z",
+        "end": "2017-06-23 04:00Z",
+        "id": "13bc006e-4505-4b88-aa66-5e42f2ea95d4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-22 00:00Z",
+        "end": "2017-06-22 04:00Z",
+        "id": "6ba9811f-9ea4-4b33-bb62-158c6e497e73",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 00:00Z",
+        "end": "2017-06-21 04:00Z",
+        "id": "8d0d48e1-a827-4731-84e2-22af2cbc2a74",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-20 00:00Z",
+        "end": "2017-06-20 04:00Z",
+        "id": "040732c3-0e52-4aaf-a239-65b814df2873",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 00:00Z",
+        "end": "2017-06-19 04:00Z",
+        "id": "28153606-419e-493d-ae14-51e0af202c26",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-18 00:00Z",
+        "end": "2017-06-18 04:00Z",
+        "id": "aea5976b-1abc-4911-9b0b-2942b88f1e56",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-17 00:00Z",
+        "end": "2017-06-17 04:00Z",
+        "id": "bc38e5d0-2e24-4fc8-8470-56df439b33f6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 00:00Z",
+        "end": "2017-06-16 04:00Z",
+        "id": "a770cbbf-c964-443c-b047-75e147c33ec2",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-15 00:00Z",
+        "end": "2017-06-15 04:00Z",
+        "id": "991cad29-8029-4c4a-af98-bb16aef6be56",
+        "name": "Generic Resource Testing"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 2",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 05:00Z",
+        "end": "2017-07-14 05:00Z",
+        "id": "01bb990f-0a91-444f-b588-8c08a03515e3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 05:00Z",
+        "end": "2017-07-07 05:00Z",
+        "id": "5d6133ec-f8cb-414d-823b-c519f6ef40c3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 05:00Z",
+        "end": "2017-06-30 05:00Z",
+        "id": "af6b2de8-1f7e-4903-9b6e-f854ae2470c6",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 05:00Z",
+        "end": "2017-06-23 05:00Z",
+        "id": "5f78970c-bd10-4fbf-b192-28255a8f4021",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 05:00Z",
+        "end": "2017-06-16 05:00Z",
+        "id": "ced1745e-4ef6-4125-9c53-9e2307876616",
+        "name": "CloudShell Sandbox Template1"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 3",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-14 17:00Z",
+        "end": "2017-07-15 17:00Z",
+        "id": "61ce783c-d08b-425d-a432-01bb55505087",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-12 17:00Z",
+        "end": "2017-07-13 17:00Z",
+        "id": "7c53c77f-03c7-4624-8a2f-33941f63d653",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 17:00Z",
+        "end": "2017-07-11 17:00Z",
+        "id": "62e487e6-5039-4102-aa7f-744b6d6c9795",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 17:00Z",
+        "end": "2017-07-08 17:00Z",
+        "id": "81078628-00a6-4628-b9d2-3659406d4d81",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 17:00Z",
+        "end": "2017-07-06 17:00Z",
+        "id": "a485458a-5106-4a4b-8f17-8ee67b84462b",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 17:00Z",
+        "end": "2017-07-04 17:00Z",
+        "id": "f57f99fb-cb1e-4a10-84cd-ce2856d23989",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 17:00Z",
+        "end": "2017-07-01 17:00Z",
+        "id": "de021cfc-1eac-41c6-8122-394f202d9b8d",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 17:00Z",
+        "end": "2017-06-29 17:00Z",
+        "id": "eff43443-f93a-4609-99e4-34850ccc1806",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 17:00Z",
+        "end": "2017-06-27 17:00Z",
+        "id": "27d8fa8f-d9cd-48da-a9ba-21a36af1203e",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 17:00Z",
+        "end": "2017-06-24 17:00Z",
+        "id": "29b1c82e-a0ba-4d9a-bd7e-3ea60e5aeb65",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 17:00Z",
+        "end": "2017-06-22 17:00Z",
+        "id": "84192459-292d-4674-b627-566a740f52f5",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 17:00Z",
+        "end": "2017-06-20 17:00Z",
+        "id": "222b7206-49a0-4549-8197-12889164b369",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 17:00Z",
+        "end": "2017-06-17 17:00Z",
+        "id": "1c718288-65cf-4de5-8e77-ab995afaae32",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 17:00Z",
+        "end": "2017-06-15 17:00Z",
+        "id": "6d5bd70b-8266-4712-bd8a-69c666e0a923",
+        "name": "Generic Resource 3 Testing"
+      }
+    ]
+  },
+  {
+    "category": "Switch000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Device000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device001",
+    "segments": []
+  },
+  {
+    "category": "Device002",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device004",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 00:00Z",
+        "end": "2017-07-12 04:00Z",
+        "id": "9c97f4e5-98e7-450d-812d-f4cc07aa8ca7",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-11 00:00Z",
+        "end": "2017-07-11 04:00Z",
+        "id": "d1969173-5e01-4605-ae17-53f7446a5947",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 00:00Z",
+        "end": "2017-07-10 04:00Z",
+        "id": "ab6a5d47-deca-4d3a-9211-de5f0acc3e6c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-09 00:00Z",
+        "end": "2017-07-09 04:00Z",
+        "id": "5b285618-b0a7-4a0f-9721-aaf13c66eaac",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-08 00:00Z",
+        "end": "2017-07-08 04:00Z",
+        "id": "471a4680-3f2c-40a9-8b77-6d73b498c78c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 00:00Z",
+        "end": "2017-07-07 04:00Z",
+        "id": "009a2fa4-86b4-4dd8-8abb-7513f87a49fe",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-06 00:00Z",
+        "end": "2017-07-06 04:00Z",
+        "id": "a14abaea-ac44-4b18-963a-4f66717e0b86",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 00:00Z",
+        "end": "2017-07-05 04:00Z",
+        "id": "19c40ba9-0a00-4465-8f71-2cf6c3f53483",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-04 00:00Z",
+        "end": "2017-07-04 04:00Z",
+        "id": "2e8e911b-d7c6-452a-af97-c1867958dd44",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 00:00Z",
+        "end": "2017-07-03 04:00Z",
+        "id": "ed2f3dad-ed89-4ce0-8f49-7007285120e4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-02 00:00Z",
+        "end": "2017-07-02 04:00Z",
+        "id": "999eaa0d-4a96-4c11-92d6-1e20047e5f1d",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-01 00:00Z",
+        "end": "2017-07-01 04:00Z",
+        "id": "f050c14b-6c07-44ee-877e-229867bf78d9",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 00:00Z",
+        "end": "2017-06-30 04:00Z",
+        "id": "1b1c2daa-ca1d-4323-bda9-4414192498e5",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-29 00:00Z",
+        "end": "2017-06-29 04:00Z",
+        "id": "fc0399b0-c10b-459e-b062-e3484154c5bc",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 00:00Z",
+        "end": "2017-06-28 04:00Z",
+        "id": "d365d302-ee1a-4e72-8d2a-ee5eefb47c41",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-27 00:00Z",
+        "end": "2017-06-27 04:00Z",
+        "id": "de050ff9-988f-43cd-8cfa-f7dd826f62d6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 00:00Z",
+        "end": "2017-06-26 04:00Z",
+        "id": "9c4c3b1f-c54e-4e7f-8f72-283047d9e982",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-25 00:00Z",
+        "end": "2017-06-25 04:00Z",
+        "id": "5e97ab50-4631-4ca9-be65-feb207a36910",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-24 00:00Z",
+        "end": "2017-06-24 04:00Z",
+        "id": "a6bb2baf-5bb4-472d-adb5-4185b2fcaa81",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 00:00Z",
+        "end": "2017-06-23 04:00Z",
+        "id": "13bc006e-4505-4b88-aa66-5e42f2ea95d4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-22 00:00Z",
+        "end": "2017-06-22 04:00Z",
+        "id": "6ba9811f-9ea4-4b33-bb62-158c6e497e73",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 00:00Z",
+        "end": "2017-06-21 04:00Z",
+        "id": "8d0d48e1-a827-4731-84e2-22af2cbc2a74",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-20 00:00Z",
+        "end": "2017-06-20 04:00Z",
+        "id": "040732c3-0e52-4aaf-a239-65b814df2873",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 00:00Z",
+        "end": "2017-06-19 04:00Z",
+        "id": "28153606-419e-493d-ae14-51e0af202c26",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-18 00:00Z",
+        "end": "2017-06-18 04:00Z",
+        "id": "aea5976b-1abc-4911-9b0b-2942b88f1e56",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-17 00:00Z",
+        "end": "2017-06-17 04:00Z",
+        "id": "bc38e5d0-2e24-4fc8-8470-56df439b33f6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 00:00Z",
+        "end": "2017-06-16 04:00Z",
+        "id": "a770cbbf-c964-443c-b047-75e147c33ec2",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-15 00:00Z",
+        "end": "2017-06-15 04:00Z",
+        "id": "991cad29-8029-4c4a-af98-bb16aef6be56",
+        "name": "Generic Resource Testing"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 2",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 05:00Z",
+        "end": "2017-07-14 05:00Z",
+        "id": "01bb990f-0a91-444f-b588-8c08a03515e3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 05:00Z",
+        "end": "2017-07-07 05:00Z",
+        "id": "5d6133ec-f8cb-414d-823b-c519f6ef40c3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 05:00Z",
+        "end": "2017-06-30 05:00Z",
+        "id": "af6b2de8-1f7e-4903-9b6e-f854ae2470c6",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 05:00Z",
+        "end": "2017-06-23 05:00Z",
+        "id": "5f78970c-bd10-4fbf-b192-28255a8f4021",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 05:00Z",
+        "end": "2017-06-16 05:00Z",
+        "id": "ced1745e-4ef6-4125-9c53-9e2307876616",
+        "name": "CloudShell Sandbox Template1"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 3",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-14 17:00Z",
+        "end": "2017-07-15 17:00Z",
+        "id": "61ce783c-d08b-425d-a432-01bb55505087",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-12 17:00Z",
+        "end": "2017-07-13 17:00Z",
+        "id": "7c53c77f-03c7-4624-8a2f-33941f63d653",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 17:00Z",
+        "end": "2017-07-11 17:00Z",
+        "id": "62e487e6-5039-4102-aa7f-744b6d6c9795",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 17:00Z",
+        "end": "2017-07-08 17:00Z",
+        "id": "81078628-00a6-4628-b9d2-3659406d4d81",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 17:00Z",
+        "end": "2017-07-06 17:00Z",
+        "id": "a485458a-5106-4a4b-8f17-8ee67b84462b",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 17:00Z",
+        "end": "2017-07-04 17:00Z",
+        "id": "f57f99fb-cb1e-4a10-84cd-ce2856d23989",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 17:00Z",
+        "end": "2017-07-01 17:00Z",
+        "id": "de021cfc-1eac-41c6-8122-394f202d9b8d",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 17:00Z",
+        "end": "2017-06-29 17:00Z",
+        "id": "eff43443-f93a-4609-99e4-34850ccc1806",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 17:00Z",
+        "end": "2017-06-27 17:00Z",
+        "id": "27d8fa8f-d9cd-48da-a9ba-21a36af1203e",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 17:00Z",
+        "end": "2017-06-24 17:00Z",
+        "id": "29b1c82e-a0ba-4d9a-bd7e-3ea60e5aeb65",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 17:00Z",
+        "end": "2017-06-22 17:00Z",
+        "id": "84192459-292d-4674-b627-566a740f52f5",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 17:00Z",
+        "end": "2017-06-20 17:00Z",
+        "id": "222b7206-49a0-4549-8197-12889164b369",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 17:00Z",
+        "end": "2017-06-17 17:00Z",
+        "id": "1c718288-65cf-4de5-8e77-ab995afaae32",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 17:00Z",
+        "end": "2017-06-15 17:00Z",
+        "id": "6d5bd70b-8266-4712-bd8a-69c666e0a923",
+        "name": "Generic Resource 3 Testing"
+      }
+    ]
+  },
+  {
+    "category": "Switch000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Device000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device001",
+    "segments": []
+  },
+  {
+    "category": "Device002",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device004",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 00:00Z",
+        "end": "2017-07-12 04:00Z",
+        "id": "9c97f4e5-98e7-450d-812d-f4cc07aa8ca7",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-11 00:00Z",
+        "end": "2017-07-11 04:00Z",
+        "id": "d1969173-5e01-4605-ae17-53f7446a5947",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 00:00Z",
+        "end": "2017-07-10 04:00Z",
+        "id": "ab6a5d47-deca-4d3a-9211-de5f0acc3e6c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-09 00:00Z",
+        "end": "2017-07-09 04:00Z",
+        "id": "5b285618-b0a7-4a0f-9721-aaf13c66eaac",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-08 00:00Z",
+        "end": "2017-07-08 04:00Z",
+        "id": "471a4680-3f2c-40a9-8b77-6d73b498c78c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 00:00Z",
+        "end": "2017-07-07 04:00Z",
+        "id": "009a2fa4-86b4-4dd8-8abb-7513f87a49fe",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-06 00:00Z",
+        "end": "2017-07-06 04:00Z",
+        "id": "a14abaea-ac44-4b18-963a-4f66717e0b86",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 00:00Z",
+        "end": "2017-07-05 04:00Z",
+        "id": "19c40ba9-0a00-4465-8f71-2cf6c3f53483",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-04 00:00Z",
+        "end": "2017-07-04 04:00Z",
+        "id": "2e8e911b-d7c6-452a-af97-c1867958dd44",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 00:00Z",
+        "end": "2017-07-03 04:00Z",
+        "id": "ed2f3dad-ed89-4ce0-8f49-7007285120e4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-02 00:00Z",
+        "end": "2017-07-02 04:00Z",
+        "id": "999eaa0d-4a96-4c11-92d6-1e20047e5f1d",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-01 00:00Z",
+        "end": "2017-07-01 04:00Z",
+        "id": "f050c14b-6c07-44ee-877e-229867bf78d9",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 00:00Z",
+        "end": "2017-06-30 04:00Z",
+        "id": "1b1c2daa-ca1d-4323-bda9-4414192498e5",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-29 00:00Z",
+        "end": "2017-06-29 04:00Z",
+        "id": "fc0399b0-c10b-459e-b062-e3484154c5bc",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 00:00Z",
+        "end": "2017-06-28 04:00Z",
+        "id": "d365d302-ee1a-4e72-8d2a-ee5eefb47c41",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-27 00:00Z",
+        "end": "2017-06-27 04:00Z",
+        "id": "de050ff9-988f-43cd-8cfa-f7dd826f62d6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 00:00Z",
+        "end": "2017-06-26 04:00Z",
+        "id": "9c4c3b1f-c54e-4e7f-8f72-283047d9e982",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-25 00:00Z",
+        "end": "2017-06-25 04:00Z",
+        "id": "5e97ab50-4631-4ca9-be65-feb207a36910",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-24 00:00Z",
+        "end": "2017-06-24 04:00Z",
+        "id": "a6bb2baf-5bb4-472d-adb5-4185b2fcaa81",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 00:00Z",
+        "end": "2017-06-23 04:00Z",
+        "id": "13bc006e-4505-4b88-aa66-5e42f2ea95d4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-22 00:00Z",
+        "end": "2017-06-22 04:00Z",
+        "id": "6ba9811f-9ea4-4b33-bb62-158c6e497e73",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 00:00Z",
+        "end": "2017-06-21 04:00Z",
+        "id": "8d0d48e1-a827-4731-84e2-22af2cbc2a74",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-20 00:00Z",
+        "end": "2017-06-20 04:00Z",
+        "id": "040732c3-0e52-4aaf-a239-65b814df2873",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 00:00Z",
+        "end": "2017-06-19 04:00Z",
+        "id": "28153606-419e-493d-ae14-51e0af202c26",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-18 00:00Z",
+        "end": "2017-06-18 04:00Z",
+        "id": "aea5976b-1abc-4911-9b0b-2942b88f1e56",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-17 00:00Z",
+        "end": "2017-06-17 04:00Z",
+        "id": "bc38e5d0-2e24-4fc8-8470-56df439b33f6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 00:00Z",
+        "end": "2017-06-16 04:00Z",
+        "id": "a770cbbf-c964-443c-b047-75e147c33ec2",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-15 00:00Z",
+        "end": "2017-06-15 04:00Z",
+        "id": "991cad29-8029-4c4a-af98-bb16aef6be56",
+        "name": "Generic Resource Testing"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 2",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 05:00Z",
+        "end": "2017-07-14 05:00Z",
+        "id": "01bb990f-0a91-444f-b588-8c08a03515e3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 05:00Z",
+        "end": "2017-07-07 05:00Z",
+        "id": "5d6133ec-f8cb-414d-823b-c519f6ef40c3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 05:00Z",
+        "end": "2017-06-30 05:00Z",
+        "id": "af6b2de8-1f7e-4903-9b6e-f854ae2470c6",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 05:00Z",
+        "end": "2017-06-23 05:00Z",
+        "id": "5f78970c-bd10-4fbf-b192-28255a8f4021",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 05:00Z",
+        "end": "2017-06-16 05:00Z",
+        "id": "ced1745e-4ef6-4125-9c53-9e2307876616",
+        "name": "CloudShell Sandbox Template1"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 3",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-14 17:00Z",
+        "end": "2017-07-15 17:00Z",
+        "id": "61ce783c-d08b-425d-a432-01bb55505087",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-12 17:00Z",
+        "end": "2017-07-13 17:00Z",
+        "id": "7c53c77f-03c7-4624-8a2f-33941f63d653",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 17:00Z",
+        "end": "2017-07-11 17:00Z",
+        "id": "62e487e6-5039-4102-aa7f-744b6d6c9795",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 17:00Z",
+        "end": "2017-07-08 17:00Z",
+        "id": "81078628-00a6-4628-b9d2-3659406d4d81",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 17:00Z",
+        "end": "2017-07-06 17:00Z",
+        "id": "a485458a-5106-4a4b-8f17-8ee67b84462b",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 17:00Z",
+        "end": "2017-07-04 17:00Z",
+        "id": "f57f99fb-cb1e-4a10-84cd-ce2856d23989",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 17:00Z",
+        "end": "2017-07-01 17:00Z",
+        "id": "de021cfc-1eac-41c6-8122-394f202d9b8d",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 17:00Z",
+        "end": "2017-06-29 17:00Z",
+        "id": "eff43443-f93a-4609-99e4-34850ccc1806",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 17:00Z",
+        "end": "2017-06-27 17:00Z",
+        "id": "27d8fa8f-d9cd-48da-a9ba-21a36af1203e",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 17:00Z",
+        "end": "2017-06-24 17:00Z",
+        "id": "29b1c82e-a0ba-4d9a-bd7e-3ea60e5aeb65",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 17:00Z",
+        "end": "2017-06-22 17:00Z",
+        "id": "84192459-292d-4674-b627-566a740f52f5",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 17:00Z",
+        "end": "2017-06-20 17:00Z",
+        "id": "222b7206-49a0-4549-8197-12889164b369",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 17:00Z",
+        "end": "2017-06-17 17:00Z",
+        "id": "1c718288-65cf-4de5-8e77-ab995afaae32",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 17:00Z",
+        "end": "2017-06-15 17:00Z",
+        "id": "6d5bd70b-8266-4712-bd8a-69c666e0a923",
+        "name": "Generic Resource 3 Testing"
+      }
+    ]
+  },
+  {
+    "category": "Switch000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Device000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device001",
+    "segments": []
+  },
+  {
+    "category": "Device002",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device004",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 00:00Z",
+        "end": "2017-07-12 04:00Z",
+        "id": "9c97f4e5-98e7-450d-812d-f4cc07aa8ca7",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-11 00:00Z",
+        "end": "2017-07-11 04:00Z",
+        "id": "d1969173-5e01-4605-ae17-53f7446a5947",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 00:00Z",
+        "end": "2017-07-10 04:00Z",
+        "id": "ab6a5d47-deca-4d3a-9211-de5f0acc3e6c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-09 00:00Z",
+        "end": "2017-07-09 04:00Z",
+        "id": "5b285618-b0a7-4a0f-9721-aaf13c66eaac",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-08 00:00Z",
+        "end": "2017-07-08 04:00Z",
+        "id": "471a4680-3f2c-40a9-8b77-6d73b498c78c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 00:00Z",
+        "end": "2017-07-07 04:00Z",
+        "id": "009a2fa4-86b4-4dd8-8abb-7513f87a49fe",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-06 00:00Z",
+        "end": "2017-07-06 04:00Z",
+        "id": "a14abaea-ac44-4b18-963a-4f66717e0b86",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 00:00Z",
+        "end": "2017-07-05 04:00Z",
+        "id": "19c40ba9-0a00-4465-8f71-2cf6c3f53483",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-04 00:00Z",
+        "end": "2017-07-04 04:00Z",
+        "id": "2e8e911b-d7c6-452a-af97-c1867958dd44",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 00:00Z",
+        "end": "2017-07-03 04:00Z",
+        "id": "ed2f3dad-ed89-4ce0-8f49-7007285120e4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-02 00:00Z",
+        "end": "2017-07-02 04:00Z",
+        "id": "999eaa0d-4a96-4c11-92d6-1e20047e5f1d",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-01 00:00Z",
+        "end": "2017-07-01 04:00Z",
+        "id": "f050c14b-6c07-44ee-877e-229867bf78d9",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 00:00Z",
+        "end": "2017-06-30 04:00Z",
+        "id": "1b1c2daa-ca1d-4323-bda9-4414192498e5",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-29 00:00Z",
+        "end": "2017-06-29 04:00Z",
+        "id": "fc0399b0-c10b-459e-b062-e3484154c5bc",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 00:00Z",
+        "end": "2017-06-28 04:00Z",
+        "id": "d365d302-ee1a-4e72-8d2a-ee5eefb47c41",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-27 00:00Z",
+        "end": "2017-06-27 04:00Z",
+        "id": "de050ff9-988f-43cd-8cfa-f7dd826f62d6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 00:00Z",
+        "end": "2017-06-26 04:00Z",
+        "id": "9c4c3b1f-c54e-4e7f-8f72-283047d9e982",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-25 00:00Z",
+        "end": "2017-06-25 04:00Z",
+        "id": "5e97ab50-4631-4ca9-be65-feb207a36910",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-24 00:00Z",
+        "end": "2017-06-24 04:00Z",
+        "id": "a6bb2baf-5bb4-472d-adb5-4185b2fcaa81",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 00:00Z",
+        "end": "2017-06-23 04:00Z",
+        "id": "13bc006e-4505-4b88-aa66-5e42f2ea95d4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-22 00:00Z",
+        "end": "2017-06-22 04:00Z",
+        "id": "6ba9811f-9ea4-4b33-bb62-158c6e497e73",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 00:00Z",
+        "end": "2017-06-21 04:00Z",
+        "id": "8d0d48e1-a827-4731-84e2-22af2cbc2a74",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-20 00:00Z",
+        "end": "2017-06-20 04:00Z",
+        "id": "040732c3-0e52-4aaf-a239-65b814df2873",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 00:00Z",
+        "end": "2017-06-19 04:00Z",
+        "id": "28153606-419e-493d-ae14-51e0af202c26",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-18 00:00Z",
+        "end": "2017-06-18 04:00Z",
+        "id": "aea5976b-1abc-4911-9b0b-2942b88f1e56",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-17 00:00Z",
+        "end": "2017-06-17 04:00Z",
+        "id": "bc38e5d0-2e24-4fc8-8470-56df439b33f6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 00:00Z",
+        "end": "2017-06-16 04:00Z",
+        "id": "a770cbbf-c964-443c-b047-75e147c33ec2",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-15 00:00Z",
+        "end": "2017-06-15 04:00Z",
+        "id": "991cad29-8029-4c4a-af98-bb16aef6be56",
+        "name": "Generic Resource Testing"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 2",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 05:00Z",
+        "end": "2017-07-14 05:00Z",
+        "id": "01bb990f-0a91-444f-b588-8c08a03515e3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 05:00Z",
+        "end": "2017-07-07 05:00Z",
+        "id": "5d6133ec-f8cb-414d-823b-c519f6ef40c3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 05:00Z",
+        "end": "2017-06-30 05:00Z",
+        "id": "af6b2de8-1f7e-4903-9b6e-f854ae2470c6",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 05:00Z",
+        "end": "2017-06-23 05:00Z",
+        "id": "5f78970c-bd10-4fbf-b192-28255a8f4021",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 05:00Z",
+        "end": "2017-06-16 05:00Z",
+        "id": "ced1745e-4ef6-4125-9c53-9e2307876616",
+        "name": "CloudShell Sandbox Template1"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 3",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-14 17:00Z",
+        "end": "2017-07-15 17:00Z",
+        "id": "61ce783c-d08b-425d-a432-01bb55505087",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-12 17:00Z",
+        "end": "2017-07-13 17:00Z",
+        "id": "7c53c77f-03c7-4624-8a2f-33941f63d653",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 17:00Z",
+        "end": "2017-07-11 17:00Z",
+        "id": "62e487e6-5039-4102-aa7f-744b6d6c9795",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 17:00Z",
+        "end": "2017-07-08 17:00Z",
+        "id": "81078628-00a6-4628-b9d2-3659406d4d81",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 17:00Z",
+        "end": "2017-07-06 17:00Z",
+        "id": "a485458a-5106-4a4b-8f17-8ee67b84462b",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 17:00Z",
+        "end": "2017-07-04 17:00Z",
+        "id": "f57f99fb-cb1e-4a10-84cd-ce2856d23989",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 17:00Z",
+        "end": "2017-07-01 17:00Z",
+        "id": "de021cfc-1eac-41c6-8122-394f202d9b8d",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 17:00Z",
+        "end": "2017-06-29 17:00Z",
+        "id": "eff43443-f93a-4609-99e4-34850ccc1806",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 17:00Z",
+        "end": "2017-06-27 17:00Z",
+        "id": "27d8fa8f-d9cd-48da-a9ba-21a36af1203e",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 17:00Z",
+        "end": "2017-06-24 17:00Z",
+        "id": "29b1c82e-a0ba-4d9a-bd7e-3ea60e5aeb65",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 17:00Z",
+        "end": "2017-06-22 17:00Z",
+        "id": "84192459-292d-4674-b627-566a740f52f5",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 17:00Z",
+        "end": "2017-06-20 17:00Z",
+        "id": "222b7206-49a0-4549-8197-12889164b369",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 17:00Z",
+        "end": "2017-06-17 17:00Z",
+        "id": "1c718288-65cf-4de5-8e77-ab995afaae32",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 17:00Z",
+        "end": "2017-06-15 17:00Z",
+        "id": "6d5bd70b-8266-4712-bd8a-69c666e0a923",
+        "name": "Generic Resource 3 Testing"
+      }
+    ]
+  },
+  {
+    "category": "Switch000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Device000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device001",
+    "segments": []
+  },
+  {
+    "category": "Device002",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device004",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 00:00Z",
+        "end": "2017-07-12 04:00Z",
+        "id": "9c97f4e5-98e7-450d-812d-f4cc07aa8ca7",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-11 00:00Z",
+        "end": "2017-07-11 04:00Z",
+        "id": "d1969173-5e01-4605-ae17-53f7446a5947",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 00:00Z",
+        "end": "2017-07-10 04:00Z",
+        "id": "ab6a5d47-deca-4d3a-9211-de5f0acc3e6c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-09 00:00Z",
+        "end": "2017-07-09 04:00Z",
+        "id": "5b285618-b0a7-4a0f-9721-aaf13c66eaac",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-08 00:00Z",
+        "end": "2017-07-08 04:00Z",
+        "id": "471a4680-3f2c-40a9-8b77-6d73b498c78c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 00:00Z",
+        "end": "2017-07-07 04:00Z",
+        "id": "009a2fa4-86b4-4dd8-8abb-7513f87a49fe",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-06 00:00Z",
+        "end": "2017-07-06 04:00Z",
+        "id": "a14abaea-ac44-4b18-963a-4f66717e0b86",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 00:00Z",
+        "end": "2017-07-05 04:00Z",
+        "id": "19c40ba9-0a00-4465-8f71-2cf6c3f53483",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-04 00:00Z",
+        "end": "2017-07-04 04:00Z",
+        "id": "2e8e911b-d7c6-452a-af97-c1867958dd44",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 00:00Z",
+        "end": "2017-07-03 04:00Z",
+        "id": "ed2f3dad-ed89-4ce0-8f49-7007285120e4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-02 00:00Z",
+        "end": "2017-07-02 04:00Z",
+        "id": "999eaa0d-4a96-4c11-92d6-1e20047e5f1d",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-01 00:00Z",
+        "end": "2017-07-01 04:00Z",
+        "id": "f050c14b-6c07-44ee-877e-229867bf78d9",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 00:00Z",
+        "end": "2017-06-30 04:00Z",
+        "id": "1b1c2daa-ca1d-4323-bda9-4414192498e5",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-29 00:00Z",
+        "end": "2017-06-29 04:00Z",
+        "id": "fc0399b0-c10b-459e-b062-e3484154c5bc",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 00:00Z",
+        "end": "2017-06-28 04:00Z",
+        "id": "d365d302-ee1a-4e72-8d2a-ee5eefb47c41",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-27 00:00Z",
+        "end": "2017-06-27 04:00Z",
+        "id": "de050ff9-988f-43cd-8cfa-f7dd826f62d6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 00:00Z",
+        "end": "2017-06-26 04:00Z",
+        "id": "9c4c3b1f-c54e-4e7f-8f72-283047d9e982",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-25 00:00Z",
+        "end": "2017-06-25 04:00Z",
+        "id": "5e97ab50-4631-4ca9-be65-feb207a36910",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-24 00:00Z",
+        "end": "2017-06-24 04:00Z",
+        "id": "a6bb2baf-5bb4-472d-adb5-4185b2fcaa81",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 00:00Z",
+        "end": "2017-06-23 04:00Z",
+        "id": "13bc006e-4505-4b88-aa66-5e42f2ea95d4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-22 00:00Z",
+        "end": "2017-06-22 04:00Z",
+        "id": "6ba9811f-9ea4-4b33-bb62-158c6e497e73",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 00:00Z",
+        "end": "2017-06-21 04:00Z",
+        "id": "8d0d48e1-a827-4731-84e2-22af2cbc2a74",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-20 00:00Z",
+        "end": "2017-06-20 04:00Z",
+        "id": "040732c3-0e52-4aaf-a239-65b814df2873",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 00:00Z",
+        "end": "2017-06-19 04:00Z",
+        "id": "28153606-419e-493d-ae14-51e0af202c26",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-18 00:00Z",
+        "end": "2017-06-18 04:00Z",
+        "id": "aea5976b-1abc-4911-9b0b-2942b88f1e56",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-17 00:00Z",
+        "end": "2017-06-17 04:00Z",
+        "id": "bc38e5d0-2e24-4fc8-8470-56df439b33f6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 00:00Z",
+        "end": "2017-06-16 04:00Z",
+        "id": "a770cbbf-c964-443c-b047-75e147c33ec2",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-15 00:00Z",
+        "end": "2017-06-15 04:00Z",
+        "id": "991cad29-8029-4c4a-af98-bb16aef6be56",
+        "name": "Generic Resource Testing"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 2",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 05:00Z",
+        "end": "2017-07-14 05:00Z",
+        "id": "01bb990f-0a91-444f-b588-8c08a03515e3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 05:00Z",
+        "end": "2017-07-07 05:00Z",
+        "id": "5d6133ec-f8cb-414d-823b-c519f6ef40c3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 05:00Z",
+        "end": "2017-06-30 05:00Z",
+        "id": "af6b2de8-1f7e-4903-9b6e-f854ae2470c6",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 05:00Z",
+        "end": "2017-06-23 05:00Z",
+        "id": "5f78970c-bd10-4fbf-b192-28255a8f4021",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 05:00Z",
+        "end": "2017-06-16 05:00Z",
+        "id": "ced1745e-4ef6-4125-9c53-9e2307876616",
+        "name": "CloudShell Sandbox Template1"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 3",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-14 17:00Z",
+        "end": "2017-07-15 17:00Z",
+        "id": "61ce783c-d08b-425d-a432-01bb55505087",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-12 17:00Z",
+        "end": "2017-07-13 17:00Z",
+        "id": "7c53c77f-03c7-4624-8a2f-33941f63d653",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 17:00Z",
+        "end": "2017-07-11 17:00Z",
+        "id": "62e487e6-5039-4102-aa7f-744b6d6c9795",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 17:00Z",
+        "end": "2017-07-08 17:00Z",
+        "id": "81078628-00a6-4628-b9d2-3659406d4d81",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 17:00Z",
+        "end": "2017-07-06 17:00Z",
+        "id": "a485458a-5106-4a4b-8f17-8ee67b84462b",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 17:00Z",
+        "end": "2017-07-04 17:00Z",
+        "id": "f57f99fb-cb1e-4a10-84cd-ce2856d23989",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 17:00Z",
+        "end": "2017-07-01 17:00Z",
+        "id": "de021cfc-1eac-41c6-8122-394f202d9b8d",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 17:00Z",
+        "end": "2017-06-29 17:00Z",
+        "id": "eff43443-f93a-4609-99e4-34850ccc1806",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 17:00Z",
+        "end": "2017-06-27 17:00Z",
+        "id": "27d8fa8f-d9cd-48da-a9ba-21a36af1203e",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 17:00Z",
+        "end": "2017-06-24 17:00Z",
+        "id": "29b1c82e-a0ba-4d9a-bd7e-3ea60e5aeb65",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 17:00Z",
+        "end": "2017-06-22 17:00Z",
+        "id": "84192459-292d-4674-b627-566a740f52f5",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 17:00Z",
+        "end": "2017-06-20 17:00Z",
+        "id": "222b7206-49a0-4549-8197-12889164b369",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 17:00Z",
+        "end": "2017-06-17 17:00Z",
+        "id": "1c718288-65cf-4de5-8e77-ab995afaae32",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 17:00Z",
+        "end": "2017-06-15 17:00Z",
+        "id": "6d5bd70b-8266-4712-bd8a-69c666e0a923",
+        "name": "Generic Resource 3 Testing"
+      }
+    ]
+  },
+  {
+    "category": "Switch000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Device000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device001",
+    "segments": []
+  },
+  {
+    "category": "Device002",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device004",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 00:00Z",
+        "end": "2017-07-12 04:00Z",
+        "id": "9c97f4e5-98e7-450d-812d-f4cc07aa8ca7",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-11 00:00Z",
+        "end": "2017-07-11 04:00Z",
+        "id": "d1969173-5e01-4605-ae17-53f7446a5947",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 00:00Z",
+        "end": "2017-07-10 04:00Z",
+        "id": "ab6a5d47-deca-4d3a-9211-de5f0acc3e6c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-09 00:00Z",
+        "end": "2017-07-09 04:00Z",
+        "id": "5b285618-b0a7-4a0f-9721-aaf13c66eaac",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-08 00:00Z",
+        "end": "2017-07-08 04:00Z",
+        "id": "471a4680-3f2c-40a9-8b77-6d73b498c78c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 00:00Z",
+        "end": "2017-07-07 04:00Z",
+        "id": "009a2fa4-86b4-4dd8-8abb-7513f87a49fe",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-06 00:00Z",
+        "end": "2017-07-06 04:00Z",
+        "id": "a14abaea-ac44-4b18-963a-4f66717e0b86",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 00:00Z",
+        "end": "2017-07-05 04:00Z",
+        "id": "19c40ba9-0a00-4465-8f71-2cf6c3f53483",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-04 00:00Z",
+        "end": "2017-07-04 04:00Z",
+        "id": "2e8e911b-d7c6-452a-af97-c1867958dd44",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 00:00Z",
+        "end": "2017-07-03 04:00Z",
+        "id": "ed2f3dad-ed89-4ce0-8f49-7007285120e4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-02 00:00Z",
+        "end": "2017-07-02 04:00Z",
+        "id": "999eaa0d-4a96-4c11-92d6-1e20047e5f1d",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-01 00:00Z",
+        "end": "2017-07-01 04:00Z",
+        "id": "f050c14b-6c07-44ee-877e-229867bf78d9",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 00:00Z",
+        "end": "2017-06-30 04:00Z",
+        "id": "1b1c2daa-ca1d-4323-bda9-4414192498e5",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-29 00:00Z",
+        "end": "2017-06-29 04:00Z",
+        "id": "fc0399b0-c10b-459e-b062-e3484154c5bc",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 00:00Z",
+        "end": "2017-06-28 04:00Z",
+        "id": "d365d302-ee1a-4e72-8d2a-ee5eefb47c41",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-27 00:00Z",
+        "end": "2017-06-27 04:00Z",
+        "id": "de050ff9-988f-43cd-8cfa-f7dd826f62d6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 00:00Z",
+        "end": "2017-06-26 04:00Z",
+        "id": "9c4c3b1f-c54e-4e7f-8f72-283047d9e982",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-25 00:00Z",
+        "end": "2017-06-25 04:00Z",
+        "id": "5e97ab50-4631-4ca9-be65-feb207a36910",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-24 00:00Z",
+        "end": "2017-06-24 04:00Z",
+        "id": "a6bb2baf-5bb4-472d-adb5-4185b2fcaa81",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 00:00Z",
+        "end": "2017-06-23 04:00Z",
+        "id": "13bc006e-4505-4b88-aa66-5e42f2ea95d4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-22 00:00Z",
+        "end": "2017-06-22 04:00Z",
+        "id": "6ba9811f-9ea4-4b33-bb62-158c6e497e73",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 00:00Z",
+        "end": "2017-06-21 04:00Z",
+        "id": "8d0d48e1-a827-4731-84e2-22af2cbc2a74",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-20 00:00Z",
+        "end": "2017-06-20 04:00Z",
+        "id": "040732c3-0e52-4aaf-a239-65b814df2873",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 00:00Z",
+        "end": "2017-06-19 04:00Z",
+        "id": "28153606-419e-493d-ae14-51e0af202c26",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-18 00:00Z",
+        "end": "2017-06-18 04:00Z",
+        "id": "aea5976b-1abc-4911-9b0b-2942b88f1e56",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-17 00:00Z",
+        "end": "2017-06-17 04:00Z",
+        "id": "bc38e5d0-2e24-4fc8-8470-56df439b33f6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 00:00Z",
+        "end": "2017-06-16 04:00Z",
+        "id": "a770cbbf-c964-443c-b047-75e147c33ec2",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-15 00:00Z",
+        "end": "2017-06-15 04:00Z",
+        "id": "991cad29-8029-4c4a-af98-bb16aef6be56",
+        "name": "Generic Resource Testing"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 2",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 05:00Z",
+        "end": "2017-07-14 05:00Z",
+        "id": "01bb990f-0a91-444f-b588-8c08a03515e3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 05:00Z",
+        "end": "2017-07-07 05:00Z",
+        "id": "5d6133ec-f8cb-414d-823b-c519f6ef40c3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 05:00Z",
+        "end": "2017-06-30 05:00Z",
+        "id": "af6b2de8-1f7e-4903-9b6e-f854ae2470c6",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 05:00Z",
+        "end": "2017-06-23 05:00Z",
+        "id": "5f78970c-bd10-4fbf-b192-28255a8f4021",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 05:00Z",
+        "end": "2017-06-16 05:00Z",
+        "id": "ced1745e-4ef6-4125-9c53-9e2307876616",
+        "name": "CloudShell Sandbox Template1"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 3",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-14 17:00Z",
+        "end": "2017-07-15 17:00Z",
+        "id": "61ce783c-d08b-425d-a432-01bb55505087",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-12 17:00Z",
+        "end": "2017-07-13 17:00Z",
+        "id": "7c53c77f-03c7-4624-8a2f-33941f63d653",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 17:00Z",
+        "end": "2017-07-11 17:00Z",
+        "id": "62e487e6-5039-4102-aa7f-744b6d6c9795",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 17:00Z",
+        "end": "2017-07-08 17:00Z",
+        "id": "81078628-00a6-4628-b9d2-3659406d4d81",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 17:00Z",
+        "end": "2017-07-06 17:00Z",
+        "id": "a485458a-5106-4a4b-8f17-8ee67b84462b",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 17:00Z",
+        "end": "2017-07-04 17:00Z",
+        "id": "f57f99fb-cb1e-4a10-84cd-ce2856d23989",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 17:00Z",
+        "end": "2017-07-01 17:00Z",
+        "id": "de021cfc-1eac-41c6-8122-394f202d9b8d",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 17:00Z",
+        "end": "2017-06-29 17:00Z",
+        "id": "eff43443-f93a-4609-99e4-34850ccc1806",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 17:00Z",
+        "end": "2017-06-27 17:00Z",
+        "id": "27d8fa8f-d9cd-48da-a9ba-21a36af1203e",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 17:00Z",
+        "end": "2017-06-24 17:00Z",
+        "id": "29b1c82e-a0ba-4d9a-bd7e-3ea60e5aeb65",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 17:00Z",
+        "end": "2017-06-22 17:00Z",
+        "id": "84192459-292d-4674-b627-566a740f52f5",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 17:00Z",
+        "end": "2017-06-20 17:00Z",
+        "id": "222b7206-49a0-4549-8197-12889164b369",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 17:00Z",
+        "end": "2017-06-17 17:00Z",
+        "id": "1c718288-65cf-4de5-8e77-ab995afaae32",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 17:00Z",
+        "end": "2017-06-15 17:00Z",
+        "id": "6d5bd70b-8266-4712-bd8a-69c666e0a923",
+        "name": "Generic Resource 3 Testing"
+      }
+    ]
+  },
+  {
+    "category": "Switch000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Device000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device001",
+    "segments": []
+  },
+  {
+    "category": "Device002",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device004",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 00:00Z",
+        "end": "2017-07-12 04:00Z",
+        "id": "9c97f4e5-98e7-450d-812d-f4cc07aa8ca7",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-11 00:00Z",
+        "end": "2017-07-11 04:00Z",
+        "id": "d1969173-5e01-4605-ae17-53f7446a5947",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 00:00Z",
+        "end": "2017-07-10 04:00Z",
+        "id": "ab6a5d47-deca-4d3a-9211-de5f0acc3e6c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-09 00:00Z",
+        "end": "2017-07-09 04:00Z",
+        "id": "5b285618-b0a7-4a0f-9721-aaf13c66eaac",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-08 00:00Z",
+        "end": "2017-07-08 04:00Z",
+        "id": "471a4680-3f2c-40a9-8b77-6d73b498c78c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 00:00Z",
+        "end": "2017-07-07 04:00Z",
+        "id": "009a2fa4-86b4-4dd8-8abb-7513f87a49fe",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-06 00:00Z",
+        "end": "2017-07-06 04:00Z",
+        "id": "a14abaea-ac44-4b18-963a-4f66717e0b86",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 00:00Z",
+        "end": "2017-07-05 04:00Z",
+        "id": "19c40ba9-0a00-4465-8f71-2cf6c3f53483",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-04 00:00Z",
+        "end": "2017-07-04 04:00Z",
+        "id": "2e8e911b-d7c6-452a-af97-c1867958dd44",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 00:00Z",
+        "end": "2017-07-03 04:00Z",
+        "id": "ed2f3dad-ed89-4ce0-8f49-7007285120e4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-02 00:00Z",
+        "end": "2017-07-02 04:00Z",
+        "id": "999eaa0d-4a96-4c11-92d6-1e20047e5f1d",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-01 00:00Z",
+        "end": "2017-07-01 04:00Z",
+        "id": "f050c14b-6c07-44ee-877e-229867bf78d9",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 00:00Z",
+        "end": "2017-06-30 04:00Z",
+        "id": "1b1c2daa-ca1d-4323-bda9-4414192498e5",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-29 00:00Z",
+        "end": "2017-06-29 04:00Z",
+        "id": "fc0399b0-c10b-459e-b062-e3484154c5bc",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 00:00Z",
+        "end": "2017-06-28 04:00Z",
+        "id": "d365d302-ee1a-4e72-8d2a-ee5eefb47c41",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-27 00:00Z",
+        "end": "2017-06-27 04:00Z",
+        "id": "de050ff9-988f-43cd-8cfa-f7dd826f62d6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 00:00Z",
+        "end": "2017-06-26 04:00Z",
+        "id": "9c4c3b1f-c54e-4e7f-8f72-283047d9e982",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-25 00:00Z",
+        "end": "2017-06-25 04:00Z",
+        "id": "5e97ab50-4631-4ca9-be65-feb207a36910",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-24 00:00Z",
+        "end": "2017-06-24 04:00Z",
+        "id": "a6bb2baf-5bb4-472d-adb5-4185b2fcaa81",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 00:00Z",
+        "end": "2017-06-23 04:00Z",
+        "id": "13bc006e-4505-4b88-aa66-5e42f2ea95d4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-22 00:00Z",
+        "end": "2017-06-22 04:00Z",
+        "id": "6ba9811f-9ea4-4b33-bb62-158c6e497e73",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 00:00Z",
+        "end": "2017-06-21 04:00Z",
+        "id": "8d0d48e1-a827-4731-84e2-22af2cbc2a74",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-20 00:00Z",
+        "end": "2017-06-20 04:00Z",
+        "id": "040732c3-0e52-4aaf-a239-65b814df2873",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 00:00Z",
+        "end": "2017-06-19 04:00Z",
+        "id": "28153606-419e-493d-ae14-51e0af202c26",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-18 00:00Z",
+        "end": "2017-06-18 04:00Z",
+        "id": "aea5976b-1abc-4911-9b0b-2942b88f1e56",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-17 00:00Z",
+        "end": "2017-06-17 04:00Z",
+        "id": "bc38e5d0-2e24-4fc8-8470-56df439b33f6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 00:00Z",
+        "end": "2017-06-16 04:00Z",
+        "id": "a770cbbf-c964-443c-b047-75e147c33ec2",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-15 00:00Z",
+        "end": "2017-06-15 04:00Z",
+        "id": "991cad29-8029-4c4a-af98-bb16aef6be56",
+        "name": "Generic Resource Testing"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 2",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 05:00Z",
+        "end": "2017-07-14 05:00Z",
+        "id": "01bb990f-0a91-444f-b588-8c08a03515e3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 05:00Z",
+        "end": "2017-07-07 05:00Z",
+        "id": "5d6133ec-f8cb-414d-823b-c519f6ef40c3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 05:00Z",
+        "end": "2017-06-30 05:00Z",
+        "id": "af6b2de8-1f7e-4903-9b6e-f854ae2470c6",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 05:00Z",
+        "end": "2017-06-23 05:00Z",
+        "id": "5f78970c-bd10-4fbf-b192-28255a8f4021",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 05:00Z",
+        "end": "2017-06-16 05:00Z",
+        "id": "ced1745e-4ef6-4125-9c53-9e2307876616",
+        "name": "CloudShell Sandbox Template1"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 3",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-14 17:00Z",
+        "end": "2017-07-15 17:00Z",
+        "id": "61ce783c-d08b-425d-a432-01bb55505087",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-12 17:00Z",
+        "end": "2017-07-13 17:00Z",
+        "id": "7c53c77f-03c7-4624-8a2f-33941f63d653",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 17:00Z",
+        "end": "2017-07-11 17:00Z",
+        "id": "62e487e6-5039-4102-aa7f-744b6d6c9795",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 17:00Z",
+        "end": "2017-07-08 17:00Z",
+        "id": "81078628-00a6-4628-b9d2-3659406d4d81",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 17:00Z",
+        "end": "2017-07-06 17:00Z",
+        "id": "a485458a-5106-4a4b-8f17-8ee67b84462b",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 17:00Z",
+        "end": "2017-07-04 17:00Z",
+        "id": "f57f99fb-cb1e-4a10-84cd-ce2856d23989",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 17:00Z",
+        "end": "2017-07-01 17:00Z",
+        "id": "de021cfc-1eac-41c6-8122-394f202d9b8d",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 17:00Z",
+        "end": "2017-06-29 17:00Z",
+        "id": "eff43443-f93a-4609-99e4-34850ccc1806",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 17:00Z",
+        "end": "2017-06-27 17:00Z",
+        "id": "27d8fa8f-d9cd-48da-a9ba-21a36af1203e",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 17:00Z",
+        "end": "2017-06-24 17:00Z",
+        "id": "29b1c82e-a0ba-4d9a-bd7e-3ea60e5aeb65",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 17:00Z",
+        "end": "2017-06-22 17:00Z",
+        "id": "84192459-292d-4674-b627-566a740f52f5",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 17:00Z",
+        "end": "2017-06-20 17:00Z",
+        "id": "222b7206-49a0-4549-8197-12889164b369",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 17:00Z",
+        "end": "2017-06-17 17:00Z",
+        "id": "1c718288-65cf-4de5-8e77-ab995afaae32",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 17:00Z",
+        "end": "2017-06-15 17:00Z",
+        "id": "6d5bd70b-8266-4712-bd8a-69c666e0a923",
+        "name": "Generic Resource 3 Testing"
+      }
+    ]
+  },
+  {
+    "category": "Switch000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Device000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device001",
+    "segments": []
+  },
+  {
+    "category": "Device002",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device004",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 00:00Z",
+        "end": "2017-07-12 04:00Z",
+        "id": "9c97f4e5-98e7-450d-812d-f4cc07aa8ca7",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-11 00:00Z",
+        "end": "2017-07-11 04:00Z",
+        "id": "d1969173-5e01-4605-ae17-53f7446a5947",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 00:00Z",
+        "end": "2017-07-10 04:00Z",
+        "id": "ab6a5d47-deca-4d3a-9211-de5f0acc3e6c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-09 00:00Z",
+        "end": "2017-07-09 04:00Z",
+        "id": "5b285618-b0a7-4a0f-9721-aaf13c66eaac",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-08 00:00Z",
+        "end": "2017-07-08 04:00Z",
+        "id": "471a4680-3f2c-40a9-8b77-6d73b498c78c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 00:00Z",
+        "end": "2017-07-07 04:00Z",
+        "id": "009a2fa4-86b4-4dd8-8abb-7513f87a49fe",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-06 00:00Z",
+        "end": "2017-07-06 04:00Z",
+        "id": "a14abaea-ac44-4b18-963a-4f66717e0b86",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 00:00Z",
+        "end": "2017-07-05 04:00Z",
+        "id": "19c40ba9-0a00-4465-8f71-2cf6c3f53483",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-04 00:00Z",
+        "end": "2017-07-04 04:00Z",
+        "id": "2e8e911b-d7c6-452a-af97-c1867958dd44",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 00:00Z",
+        "end": "2017-07-03 04:00Z",
+        "id": "ed2f3dad-ed89-4ce0-8f49-7007285120e4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-02 00:00Z",
+        "end": "2017-07-02 04:00Z",
+        "id": "999eaa0d-4a96-4c11-92d6-1e20047e5f1d",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-01 00:00Z",
+        "end": "2017-07-01 04:00Z",
+        "id": "f050c14b-6c07-44ee-877e-229867bf78d9",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 00:00Z",
+        "end": "2017-06-30 04:00Z",
+        "id": "1b1c2daa-ca1d-4323-bda9-4414192498e5",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-29 00:00Z",
+        "end": "2017-06-29 04:00Z",
+        "id": "fc0399b0-c10b-459e-b062-e3484154c5bc",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 00:00Z",
+        "end": "2017-06-28 04:00Z",
+        "id": "d365d302-ee1a-4e72-8d2a-ee5eefb47c41",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-27 00:00Z",
+        "end": "2017-06-27 04:00Z",
+        "id": "de050ff9-988f-43cd-8cfa-f7dd826f62d6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 00:00Z",
+        "end": "2017-06-26 04:00Z",
+        "id": "9c4c3b1f-c54e-4e7f-8f72-283047d9e982",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-25 00:00Z",
+        "end": "2017-06-25 04:00Z",
+        "id": "5e97ab50-4631-4ca9-be65-feb207a36910",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-24 00:00Z",
+        "end": "2017-06-24 04:00Z",
+        "id": "a6bb2baf-5bb4-472d-adb5-4185b2fcaa81",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 00:00Z",
+        "end": "2017-06-23 04:00Z",
+        "id": "13bc006e-4505-4b88-aa66-5e42f2ea95d4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-22 00:00Z",
+        "end": "2017-06-22 04:00Z",
+        "id": "6ba9811f-9ea4-4b33-bb62-158c6e497e73",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 00:00Z",
+        "end": "2017-06-21 04:00Z",
+        "id": "8d0d48e1-a827-4731-84e2-22af2cbc2a74",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-20 00:00Z",
+        "end": "2017-06-20 04:00Z",
+        "id": "040732c3-0e52-4aaf-a239-65b814df2873",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 00:00Z",
+        "end": "2017-06-19 04:00Z",
+        "id": "28153606-419e-493d-ae14-51e0af202c26",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-18 00:00Z",
+        "end": "2017-06-18 04:00Z",
+        "id": "aea5976b-1abc-4911-9b0b-2942b88f1e56",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-17 00:00Z",
+        "end": "2017-06-17 04:00Z",
+        "id": "bc38e5d0-2e24-4fc8-8470-56df439b33f6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 00:00Z",
+        "end": "2017-06-16 04:00Z",
+        "id": "a770cbbf-c964-443c-b047-75e147c33ec2",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-15 00:00Z",
+        "end": "2017-06-15 04:00Z",
+        "id": "991cad29-8029-4c4a-af98-bb16aef6be56",
+        "name": "Generic Resource Testing"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 2",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 05:00Z",
+        "end": "2017-07-14 05:00Z",
+        "id": "01bb990f-0a91-444f-b588-8c08a03515e3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 05:00Z",
+        "end": "2017-07-07 05:00Z",
+        "id": "5d6133ec-f8cb-414d-823b-c519f6ef40c3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 05:00Z",
+        "end": "2017-06-30 05:00Z",
+        "id": "af6b2de8-1f7e-4903-9b6e-f854ae2470c6",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 05:00Z",
+        "end": "2017-06-23 05:00Z",
+        "id": "5f78970c-bd10-4fbf-b192-28255a8f4021",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 05:00Z",
+        "end": "2017-06-16 05:00Z",
+        "id": "ced1745e-4ef6-4125-9c53-9e2307876616",
+        "name": "CloudShell Sandbox Template1"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 3",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-14 17:00Z",
+        "end": "2017-07-15 17:00Z",
+        "id": "61ce783c-d08b-425d-a432-01bb55505087",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-12 17:00Z",
+        "end": "2017-07-13 17:00Z",
+        "id": "7c53c77f-03c7-4624-8a2f-33941f63d653",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 17:00Z",
+        "end": "2017-07-11 17:00Z",
+        "id": "62e487e6-5039-4102-aa7f-744b6d6c9795",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 17:00Z",
+        "end": "2017-07-08 17:00Z",
+        "id": "81078628-00a6-4628-b9d2-3659406d4d81",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 17:00Z",
+        "end": "2017-07-06 17:00Z",
+        "id": "a485458a-5106-4a4b-8f17-8ee67b84462b",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 17:00Z",
+        "end": "2017-07-04 17:00Z",
+        "id": "f57f99fb-cb1e-4a10-84cd-ce2856d23989",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 17:00Z",
+        "end": "2017-07-01 17:00Z",
+        "id": "de021cfc-1eac-41c6-8122-394f202d9b8d",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 17:00Z",
+        "end": "2017-06-29 17:00Z",
+        "id": "eff43443-f93a-4609-99e4-34850ccc1806",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 17:00Z",
+        "end": "2017-06-27 17:00Z",
+        "id": "27d8fa8f-d9cd-48da-a9ba-21a36af1203e",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 17:00Z",
+        "end": "2017-06-24 17:00Z",
+        "id": "29b1c82e-a0ba-4d9a-bd7e-3ea60e5aeb65",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 17:00Z",
+        "end": "2017-06-22 17:00Z",
+        "id": "84192459-292d-4674-b627-566a740f52f5",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 17:00Z",
+        "end": "2017-06-20 17:00Z",
+        "id": "222b7206-49a0-4549-8197-12889164b369",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 17:00Z",
+        "end": "2017-06-17 17:00Z",
+        "id": "1c718288-65cf-4de5-8e77-ab995afaae32",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 17:00Z",
+        "end": "2017-06-15 17:00Z",
+        "id": "6d5bd70b-8266-4712-bd8a-69c666e0a923",
+        "name": "Generic Resource 3 Testing"
+      }
+    ]
+  },
+  {
+    "category": "Switch000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Device000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device001",
+    "segments": []
+  },
+  {
+    "category": "Device002",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device004",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 00:00Z",
+        "end": "2017-07-12 04:00Z",
+        "id": "9c97f4e5-98e7-450d-812d-f4cc07aa8ca7",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-11 00:00Z",
+        "end": "2017-07-11 04:00Z",
+        "id": "d1969173-5e01-4605-ae17-53f7446a5947",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 00:00Z",
+        "end": "2017-07-10 04:00Z",
+        "id": "ab6a5d47-deca-4d3a-9211-de5f0acc3e6c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-09 00:00Z",
+        "end": "2017-07-09 04:00Z",
+        "id": "5b285618-b0a7-4a0f-9721-aaf13c66eaac",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-08 00:00Z",
+        "end": "2017-07-08 04:00Z",
+        "id": "471a4680-3f2c-40a9-8b77-6d73b498c78c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 00:00Z",
+        "end": "2017-07-07 04:00Z",
+        "id": "009a2fa4-86b4-4dd8-8abb-7513f87a49fe",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-06 00:00Z",
+        "end": "2017-07-06 04:00Z",
+        "id": "a14abaea-ac44-4b18-963a-4f66717e0b86",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 00:00Z",
+        "end": "2017-07-05 04:00Z",
+        "id": "19c40ba9-0a00-4465-8f71-2cf6c3f53483",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-04 00:00Z",
+        "end": "2017-07-04 04:00Z",
+        "id": "2e8e911b-d7c6-452a-af97-c1867958dd44",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 00:00Z",
+        "end": "2017-07-03 04:00Z",
+        "id": "ed2f3dad-ed89-4ce0-8f49-7007285120e4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-02 00:00Z",
+        "end": "2017-07-02 04:00Z",
+        "id": "999eaa0d-4a96-4c11-92d6-1e20047e5f1d",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-01 00:00Z",
+        "end": "2017-07-01 04:00Z",
+        "id": "f050c14b-6c07-44ee-877e-229867bf78d9",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 00:00Z",
+        "end": "2017-06-30 04:00Z",
+        "id": "1b1c2daa-ca1d-4323-bda9-4414192498e5",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-29 00:00Z",
+        "end": "2017-06-29 04:00Z",
+        "id": "fc0399b0-c10b-459e-b062-e3484154c5bc",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 00:00Z",
+        "end": "2017-06-28 04:00Z",
+        "id": "d365d302-ee1a-4e72-8d2a-ee5eefb47c41",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-27 00:00Z",
+        "end": "2017-06-27 04:00Z",
+        "id": "de050ff9-988f-43cd-8cfa-f7dd826f62d6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 00:00Z",
+        "end": "2017-06-26 04:00Z",
+        "id": "9c4c3b1f-c54e-4e7f-8f72-283047d9e982",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-25 00:00Z",
+        "end": "2017-06-25 04:00Z",
+        "id": "5e97ab50-4631-4ca9-be65-feb207a36910",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-24 00:00Z",
+        "end": "2017-06-24 04:00Z",
+        "id": "a6bb2baf-5bb4-472d-adb5-4185b2fcaa81",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 00:00Z",
+        "end": "2017-06-23 04:00Z",
+        "id": "13bc006e-4505-4b88-aa66-5e42f2ea95d4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-22 00:00Z",
+        "end": "2017-06-22 04:00Z",
+        "id": "6ba9811f-9ea4-4b33-bb62-158c6e497e73",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 00:00Z",
+        "end": "2017-06-21 04:00Z",
+        "id": "8d0d48e1-a827-4731-84e2-22af2cbc2a74",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-20 00:00Z",
+        "end": "2017-06-20 04:00Z",
+        "id": "040732c3-0e52-4aaf-a239-65b814df2873",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 00:00Z",
+        "end": "2017-06-19 04:00Z",
+        "id": "28153606-419e-493d-ae14-51e0af202c26",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-18 00:00Z",
+        "end": "2017-06-18 04:00Z",
+        "id": "aea5976b-1abc-4911-9b0b-2942b88f1e56",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-17 00:00Z",
+        "end": "2017-06-17 04:00Z",
+        "id": "bc38e5d0-2e24-4fc8-8470-56df439b33f6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 00:00Z",
+        "end": "2017-06-16 04:00Z",
+        "id": "a770cbbf-c964-443c-b047-75e147c33ec2",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-15 00:00Z",
+        "end": "2017-06-15 04:00Z",
+        "id": "991cad29-8029-4c4a-af98-bb16aef6be56",
+        "name": "Generic Resource Testing"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 2",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 05:00Z",
+        "end": "2017-07-14 05:00Z",
+        "id": "01bb990f-0a91-444f-b588-8c08a03515e3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 05:00Z",
+        "end": "2017-07-07 05:00Z",
+        "id": "5d6133ec-f8cb-414d-823b-c519f6ef40c3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 05:00Z",
+        "end": "2017-06-30 05:00Z",
+        "id": "af6b2de8-1f7e-4903-9b6e-f854ae2470c6",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 05:00Z",
+        "end": "2017-06-23 05:00Z",
+        "id": "5f78970c-bd10-4fbf-b192-28255a8f4021",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 05:00Z",
+        "end": "2017-06-16 05:00Z",
+        "id": "ced1745e-4ef6-4125-9c53-9e2307876616",
+        "name": "CloudShell Sandbox Template1"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 3",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-14 17:00Z",
+        "end": "2017-07-15 17:00Z",
+        "id": "61ce783c-d08b-425d-a432-01bb55505087",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-12 17:00Z",
+        "end": "2017-07-13 17:00Z",
+        "id": "7c53c77f-03c7-4624-8a2f-33941f63d653",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 17:00Z",
+        "end": "2017-07-11 17:00Z",
+        "id": "62e487e6-5039-4102-aa7f-744b6d6c9795",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 17:00Z",
+        "end": "2017-07-08 17:00Z",
+        "id": "81078628-00a6-4628-b9d2-3659406d4d81",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 17:00Z",
+        "end": "2017-07-06 17:00Z",
+        "id": "a485458a-5106-4a4b-8f17-8ee67b84462b",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 17:00Z",
+        "end": "2017-07-04 17:00Z",
+        "id": "f57f99fb-cb1e-4a10-84cd-ce2856d23989",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 17:00Z",
+        "end": "2017-07-01 17:00Z",
+        "id": "de021cfc-1eac-41c6-8122-394f202d9b8d",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 17:00Z",
+        "end": "2017-06-29 17:00Z",
+        "id": "eff43443-f93a-4609-99e4-34850ccc1806",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 17:00Z",
+        "end": "2017-06-27 17:00Z",
+        "id": "27d8fa8f-d9cd-48da-a9ba-21a36af1203e",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 17:00Z",
+        "end": "2017-06-24 17:00Z",
+        "id": "29b1c82e-a0ba-4d9a-bd7e-3ea60e5aeb65",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 17:00Z",
+        "end": "2017-06-22 17:00Z",
+        "id": "84192459-292d-4674-b627-566a740f52f5",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 17:00Z",
+        "end": "2017-06-20 17:00Z",
+        "id": "222b7206-49a0-4549-8197-12889164b369",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 17:00Z",
+        "end": "2017-06-17 17:00Z",
+        "id": "1c718288-65cf-4de5-8e77-ab995afaae32",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 17:00Z",
+        "end": "2017-06-15 17:00Z",
+        "id": "6d5bd70b-8266-4712-bd8a-69c666e0a923",
+        "name": "Generic Resource 3 Testing"
+      }
+    ]
+  },
+  {
+    "category": "Switch000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Device000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device001",
+    "segments": []
+  },
+  {
+    "category": "Device002",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 00:50Z",
+        "end": "2017-06-22 01:00Z",
+        "id": "eaf5026e-fe8a-4c2e-aa0f-e6b43eab47f2",
+        "name": "Network Topology"
+      }
+    ]
+  },
+  {
+    "category": "Device004",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 00:00Z",
+        "end": "2017-07-12 04:00Z",
+        "id": "9c97f4e5-98e7-450d-812d-f4cc07aa8ca7",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-11 00:00Z",
+        "end": "2017-07-11 04:00Z",
+        "id": "d1969173-5e01-4605-ae17-53f7446a5947",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 00:00Z",
+        "end": "2017-07-10 04:00Z",
+        "id": "ab6a5d47-deca-4d3a-9211-de5f0acc3e6c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-09 00:00Z",
+        "end": "2017-07-09 04:00Z",
+        "id": "5b285618-b0a7-4a0f-9721-aaf13c66eaac",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-08 00:00Z",
+        "end": "2017-07-08 04:00Z",
+        "id": "471a4680-3f2c-40a9-8b77-6d73b498c78c",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 00:00Z",
+        "end": "2017-07-07 04:00Z",
+        "id": "009a2fa4-86b4-4dd8-8abb-7513f87a49fe",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-06 00:00Z",
+        "end": "2017-07-06 04:00Z",
+        "id": "a14abaea-ac44-4b18-963a-4f66717e0b86",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 00:00Z",
+        "end": "2017-07-05 04:00Z",
+        "id": "19c40ba9-0a00-4465-8f71-2cf6c3f53483",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-04 00:00Z",
+        "end": "2017-07-04 04:00Z",
+        "id": "2e8e911b-d7c6-452a-af97-c1867958dd44",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 00:00Z",
+        "end": "2017-07-03 04:00Z",
+        "id": "ed2f3dad-ed89-4ce0-8f49-7007285120e4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-02 00:00Z",
+        "end": "2017-07-02 04:00Z",
+        "id": "999eaa0d-4a96-4c11-92d6-1e20047e5f1d",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-01 00:00Z",
+        "end": "2017-07-01 04:00Z",
+        "id": "f050c14b-6c07-44ee-877e-229867bf78d9",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 00:00Z",
+        "end": "2017-06-30 04:00Z",
+        "id": "1b1c2daa-ca1d-4323-bda9-4414192498e5",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-29 00:00Z",
+        "end": "2017-06-29 04:00Z",
+        "id": "fc0399b0-c10b-459e-b062-e3484154c5bc",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 00:00Z",
+        "end": "2017-06-28 04:00Z",
+        "id": "d365d302-ee1a-4e72-8d2a-ee5eefb47c41",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-27 00:00Z",
+        "end": "2017-06-27 04:00Z",
+        "id": "de050ff9-988f-43cd-8cfa-f7dd826f62d6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 00:00Z",
+        "end": "2017-06-26 04:00Z",
+        "id": "9c4c3b1f-c54e-4e7f-8f72-283047d9e982",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-25 00:00Z",
+        "end": "2017-06-25 04:00Z",
+        "id": "5e97ab50-4631-4ca9-be65-feb207a36910",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-24 00:00Z",
+        "end": "2017-06-24 04:00Z",
+        "id": "a6bb2baf-5bb4-472d-adb5-4185b2fcaa81",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 00:00Z",
+        "end": "2017-06-23 04:00Z",
+        "id": "13bc006e-4505-4b88-aa66-5e42f2ea95d4",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-22 00:00Z",
+        "end": "2017-06-22 04:00Z",
+        "id": "6ba9811f-9ea4-4b33-bb62-158c6e497e73",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 00:00Z",
+        "end": "2017-06-21 04:00Z",
+        "id": "8d0d48e1-a827-4731-84e2-22af2cbc2a74",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-20 00:00Z",
+        "end": "2017-06-20 04:00Z",
+        "id": "040732c3-0e52-4aaf-a239-65b814df2873",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 00:00Z",
+        "end": "2017-06-19 04:00Z",
+        "id": "28153606-419e-493d-ae14-51e0af202c26",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-18 00:00Z",
+        "end": "2017-06-18 04:00Z",
+        "id": "aea5976b-1abc-4911-9b0b-2942b88f1e56",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-17 00:00Z",
+        "end": "2017-06-17 04:00Z",
+        "id": "bc38e5d0-2e24-4fc8-8470-56df439b33f6",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 00:00Z",
+        "end": "2017-06-16 04:00Z",
+        "id": "a770cbbf-c964-443c-b047-75e147c33ec2",
+        "name": "Generic Resource Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-15 00:00Z",
+        "end": "2017-06-15 04:00Z",
+        "id": "991cad29-8029-4c4a-af98-bb16aef6be56",
+        "name": "Generic Resource Testing"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 2",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-12 05:00Z",
+        "end": "2017-07-14 05:00Z",
+        "id": "01bb990f-0a91-444f-b588-8c08a03515e3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 05:00Z",
+        "end": "2017-07-07 05:00Z",
+        "id": "5d6133ec-f8cb-414d-823b-c519f6ef40c3",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 05:00Z",
+        "end": "2017-06-30 05:00Z",
+        "id": "af6b2de8-1f7e-4903-9b6e-f854ae2470c6",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 05:00Z",
+        "end": "2017-06-23 05:00Z",
+        "id": "5f78970c-bd10-4fbf-b192-28255a8f4021",
+        "name": "CloudShell Sandbox Template1"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 05:00Z",
+        "end": "2017-06-16 05:00Z",
+        "id": "ced1745e-4ef6-4125-9c53-9e2307876616",
+        "name": "CloudShell Sandbox Template1"
+      }
+    ]
+  },
+  {
+    "category": "Generic Resource 3",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-07-14 17:00Z",
+        "end": "2017-07-15 17:00Z",
+        "id": "61ce783c-d08b-425d-a432-01bb55505087",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-12 17:00Z",
+        "end": "2017-07-13 17:00Z",
+        "id": "7c53c77f-03c7-4624-8a2f-33941f63d653",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-10 17:00Z",
+        "end": "2017-07-11 17:00Z",
+        "id": "62e487e6-5039-4102-aa7f-744b6d6c9795",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-07 17:00Z",
+        "end": "2017-07-08 17:00Z",
+        "id": "81078628-00a6-4628-b9d2-3659406d4d81",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-05 17:00Z",
+        "end": "2017-07-06 17:00Z",
+        "id": "a485458a-5106-4a4b-8f17-8ee67b84462b",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-07-03 17:00Z",
+        "end": "2017-07-04 17:00Z",
+        "id": "f57f99fb-cb1e-4a10-84cd-ce2856d23989",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-30 17:00Z",
+        "end": "2017-07-01 17:00Z",
+        "id": "de021cfc-1eac-41c6-8122-394f202d9b8d",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-28 17:00Z",
+        "end": "2017-06-29 17:00Z",
+        "id": "eff43443-f93a-4609-99e4-34850ccc1806",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-26 17:00Z",
+        "end": "2017-06-27 17:00Z",
+        "id": "27d8fa8f-d9cd-48da-a9ba-21a36af1203e",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-23 17:00Z",
+        "end": "2017-06-24 17:00Z",
+        "id": "29b1c82e-a0ba-4d9a-bd7e-3ea60e5aeb65",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-21 17:00Z",
+        "end": "2017-06-22 17:00Z",
+        "id": "84192459-292d-4674-b627-566a740f52f5",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-19 17:00Z",
+        "end": "2017-06-20 17:00Z",
+        "id": "222b7206-49a0-4549-8197-12889164b369",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-16 17:00Z",
+        "end": "2017-06-17 17:00Z",
+        "id": "1c718288-65cf-4de5-8e77-ab995afaae32",
+        "name": "Generic Resource 3 Testing"
+      },
+      {
+        "owner": "admin",
+        "start": "2017-06-14 17:00Z",
+        "end": "2017-06-15 17:00Z",
+        "id": "6d5bd70b-8266-4712-bd8a-69c666e0a923",
+        "name": "Generic Resource 3 Testing"
+      }
+    ]
+  },
+  {
+    "category": "Switch000",
+    "segments": [
+      {
+        "owner": "admin",
+        "start": "2017-05-25 05:00Z",
+        "end": "2018-12-06 05:10Z",
+        "id": "72dc4208-c811-40f4-8727-1cb136d39a72",
+        "name": "Static Testbed"
+      }
+    ]
   }
 ]

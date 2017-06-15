@@ -18,7 +18,8 @@ export class ResourceReservationGanttComponent {
   private chart: any;
   private chartDataLastUpdated: any;
   private chartHeight: number;
-  private chartHeightMax = 1000;
+  private chartHeightMax = 975;
+  private currentResourceSearch = '';
   private dataSource: any;
   private resourceFilter = '';
 
@@ -104,8 +105,6 @@ export class ResourceReservationGanttComponent {
 
           this.chartDataLastUpdated = response.lastModified;
           this.updateChartData(response.data);
-
-          this.dataLoaded = true;
         }
       );
   }
@@ -149,19 +148,34 @@ export class ResourceReservationGanttComponent {
   };
 
   refreshData() {
-    if (this.dataSource) {
-      let data = this.getFilteredData();
+    var resourceSearchArray = this.resourceFilter.toLowerCase().replace(/\s/g, '').split(',');
+    resourceSearchArray = resourceSearchArray.filter(function (elem, index, self) {
+      return index == self.indexOf(elem) && elem != '';
+    });
 
+    var newResourceSearch = resourceSearchArray.join(',');
+    if (this.dataSource && this.currentResourceSearch != newResourceSearch) {
+      this.currentResourceSearch = newResourceSearch;
+      this.dataLoaded = false;
+
+      let data = this.getFilteredData();
       this.updateChartData(data);
     }
+
+    this.resourceFilter = newResourceSearch;
   }
 
   private updateChartData(data) {
-    let newChartHeight = 35 + (data.length * 75) + 35;
+    let newChartHeight = 70;
 
-    if (newChartHeight > this.chartHeightMax) {
-      newChartHeight = this.chartHeightMax;
+    let rowHeight = 900 / data.length;
+    if (rowHeight > 75) {
+      rowHeight = 75;
     }
+    else if (rowHeight < 18) {
+      rowHeight = 18;
+    }
+    newChartHeight += (data.length * rowHeight);
 
     this.chartHeight = newChartHeight;
 
@@ -169,6 +183,8 @@ export class ResourceReservationGanttComponent {
       this.chart.dataProvider = data;
       this.chart.validateData();
     });
+
+    this.dataLoaded = true;
   }
 
   containsAny(str, substrings) {
@@ -184,20 +200,15 @@ export class ResourceReservationGanttComponent {
 
   getFilteredData() {
     var filteredData = [];
-    var resourceSearch = null;
 
     if (!this.resourceFilter) {
-      resourceSearch = ""
-    }
-    else {
-      resourceSearch = this.resourceFilter;
+      return this.dataSource
     }
 
-    resourceSearch = resourceSearch.toLowerCase().replace(/\s/g, '').split(',');
     for (var i = 0; i < this.dataSource.length; i++) {
       var dataPoint = this.dataSource[i];
 
-      if (this.containsAny(dataPoint.category.toLowerCase(), resourceSearch)) {
+      if (this.containsAny(dataPoint.category.toLowerCase(), this.resourceFilter.split(','))) {
         filteredData.push(dataPoint);
       }
     }
