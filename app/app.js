@@ -17,11 +17,11 @@ app.use(express.static(path.join(__dirname, 'www', 'public')));
 app.use(favicon(path.join(__dirname, 'www', 'public', 'favicon.ico')));
 app.use(logger);
 
-var data = require('./routes/data');
-app.use("/data", data);
-
-var angular = require('./routes/angular');
-app.use(angular);
+app.use("/data", express.static(path.join(__dirname, 'www', 'data')));
+app.use(express.static(path.join(__dirname, 'www', 'dist')));
+app.use("*", function (req, res) {
+    res.sendFile(path.join(__dirname, 'www', 'dist', 'index.html'));
+});
 
 app.use(function (err, req, res, next) {
     var status = err.status || 500;
@@ -37,8 +37,6 @@ app.use(function (err, req, res, next) {
 
     res.status(status);
     res.send(response);
-
-    next()
 });
 
 module.exports = app;

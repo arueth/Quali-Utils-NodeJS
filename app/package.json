@@ -4,7 +4,7 @@
   "description": "Quali Utilities NodeJS application",
   "main": "app.js",
   "scripts": {
-    "start": "NODE_PATH=`pwd` node ./bin/www",
+    "start": "node ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aaron Rueth <arueth@gmail.com>",

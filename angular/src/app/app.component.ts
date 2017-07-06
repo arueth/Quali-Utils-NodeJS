@@ -1,5 +1,7 @@
 import {Component} from '@angular/core';
 
+import {QualiUtilsService} from "./services/quali-utils.service";
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -7,4 +9,7 @@ import {Component} from '@angular/core';
 })
 export class AppComponent {
   title = 'Quali Utils';
+
+  constructor(private qualiUtilsService: QualiUtilsService) {
+  }
 }

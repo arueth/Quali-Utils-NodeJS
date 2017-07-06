@@ -1,13 +1,13 @@
 ###############################################################################
 # BUILD
 ###############################################################################
-FROM node:8.0.0-alpine as builder
+FROM node:8.1.3-alpine as builder
 
 RUN apk update \
-&& apk upgrade \
 && apk add git \
-&& rm -rf /var/cache/apk/* \
-&& npm install -g @angular/cli
+&& rm -rf /var/cache/apk/*
+
+RUN npm install -g @angular/cli
 
 RUN mkdir -p /usr/src/app /usr/src/angular
 
@@ -39,16 +39,12 @@ RUN ng build --env=prod
 ###############################################################################
 # FINAL
 ###############################################################################
-FROM node:8.0.0-alpine
-
-EXPOSE 80
-
-RUN apk update \
-&& apk upgrade \
-&& rm -rf /var/cache/apk/*
+FROM node:8.1.3-alpine
 
 WORKDIR /usr/src/app
 
 COPY --from=builder /usr/src/app .
+
+EXPOSE 8080
 
 CMD ["npm", "start"]

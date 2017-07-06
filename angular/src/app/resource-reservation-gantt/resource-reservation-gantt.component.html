@@ -1,35 +1,62 @@
 <div class="container-fluid">
-  <div class="row">
-    <div class="col-xs-12">
-      <div id="filter">
-        <div class="pull-left">
-          <form class="form-inline">
-            <div class="form-group">
-              <label class="control-label">Search</label>
-              <ng-template #searchPopoverContent>
-                <small>
-                  Search for resource names that contain the string value entered in the search box.
-                  <br/><br/>
-                  Multiple search strings can be entered using a comma separated list.
-                </small>
-              </ng-template>
-              <span class="glyphicon glyphicon-info-sign"
-                    [ngbPopover]="searchPopoverContent"
-                    placement="right"
-                    popoverTitle="Search Help"
-                    triggers="hover"></span>
-              <div class="input-group">
-                <input class="form-control" type="text" [(ngModel)]="resourceFilter"
-                       [ngModelOptions]="{standalone: true}"/>
-              </div>
-            </div>
-            <button class="btn btn-primary" (click)="refreshData()">
+  <div *ngIf="isPageLoading()" class="loader"></div>
+  <div *ngIf="!isPageLoading()" class="well">
+    <div class="row">
+      <form (ngSubmit)="refreshData(f)" #f="ngForm">
+        <div class="col-lg-4">
+          <div class="form-group">
+            <label class="control-label">Resource Name</label>
+            <ng-template #searchPopoverContent>
+              <small>
+                Search for resource names that contain the string value entered in the search box.
+                <br/><br/>
+                Multiple search strings can be entered using a comma separated list.
+              </small>
+            </ng-template>
+            <span class="glyphicon glyphicon-info-sign"
+                  [ngbPopover]="searchPopoverContent"
+                  placement="right"
+                  popoverTitle="Search Help"
+                  triggers="hover"></span>
+            <input class="form-control"
+                   type="text"
+                   name="name"
+                   ngModel>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="form-group">
+            <label class="control-label">Resource Family:</label>
+            <select class="form-control"
+                    name="family"
+                    [(ngModel)]="selectedResouceFamily"
+                    (ngModelChange)="onResourceFamilyChange()">
+              <option *ngFor='let family of resourceFamiles' [ngValue]='family'>{{family.name}}</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="control-label">Resource Model:</label>
+            <select class="form-control"
+                    name="model"
+                    [(ngModel)]="selectedResouceModel"
+                    [disabled]="!selectedResouceFamily">
+              <option *ngFor='let model of selectedResouceFamily?.models' [ngValue]='model'>{{model.name}}</option>
+            </select>
+          </div>
+        </div>
+        <div class="col-lg-1">
+          <div class="form-group">
+            <button class="btn btn-primary" title="Search" type="submit">
               <span class="glyphicon glyphicon glyphicon-search" aria-hidden="true"></span>
             </button>
-
-          </form>
+            <button class="btn btn-danger" title="Clear" (click)="onClear()">
+              <span class="glyphicon glyphicon glyphicon-remove" aria-hidden="true"></span>
+            </button>
+          </div>
         </div>
-        <div class="pull-right text-right">
+      </form>
+      <div class="col-lg-4">
+        <div class="text-right">
           <small>
             Source last updated: {{ chartDataLastUpdated | amDateFormat: 'YYYY-MM-DD HH:mm:ss'}}
             ({{ chartDataLastUpdated | amTimeAgo }})
@@ -37,12 +64,12 @@
             All times have offset {{ chartDataLastUpdated | amDateFormat: 'Z'}}
           </small>
         </div>
-        <div class="clearfix"></div>
       </div>
-      <div id="chart-container">
-        <div id="gantt" [style.height.px]="chartHeight"></div>
-        <div *ngIf="!dataLoaded" id="loader"></div>
-      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div id="chart-container">
+      <div id="gantt" [style.height.px]="chartHeight"></div>
     </div>
   </div>
 </div>

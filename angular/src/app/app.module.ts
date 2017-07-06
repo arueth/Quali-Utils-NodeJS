@@ -13,8 +13,8 @@ import {IndexComponent} from "./index/index.component";
 import {MomentModule} from "angular2-moment";
 import {NavComponent} from "./nav/nav.component";
 import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
+import {QualiUtilsService} from "./services/quali-utils.service";
 import {ResourceReservationGanttComponent} from './resource-reservation-gantt/resource-reservation-gantt.component';
-
 
 const appRoutes: Routes = [
   {path: '', component: IndexComponent},
@@ -40,7 +40,7 @@ const appRoutes: Routes = [
     NgbModule.forRoot(),
     RouterModule.forRoot(appRoutes)
   ],
-  providers: [],
+  providers: [QualiUtilsService],
   bootstrap: [AppComponent]
 })
 export class AppModule {

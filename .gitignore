@@ -1,5 +1,7 @@
 .idea
 
+npm-debug.log
+
 app/www/dist
 app/www/public/static
 app/node_modules/
